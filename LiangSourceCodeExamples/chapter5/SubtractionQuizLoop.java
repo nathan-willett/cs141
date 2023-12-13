@@ -1,4 +1,4 @@
-package chapter5;
+package LiangSourceCodeExamples.chapter5;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ public class SubtractionQuizLoop {
         number2 = temp;
       }
 
-      // 3. Prompt the student to answer "What is number1 – number2?"
+      // 3. Prompt the student to answer "What is number1 ï¿½ number2?"
       System.out.print(
         "What is " + number1 + " - " + number2 + "? ");
       int answer = input.nextInt();
