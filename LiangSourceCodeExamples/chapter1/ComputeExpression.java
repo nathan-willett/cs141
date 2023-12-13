@@ -1,4 +1,4 @@
-package chapter1;
+package LiangSourceCodeExamples.chapter1;
 
 public class ComputeExpression { 
   public static void main(String[] args) { 
