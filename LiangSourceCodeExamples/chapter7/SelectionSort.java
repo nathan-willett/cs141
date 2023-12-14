@@ -1,4 +1,4 @@
-package chapter7;
+package LiangSourceCodeExamples.chapter7;
 
 public class SelectionSort {
   /** The method for sorting the numbers */

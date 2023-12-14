@@ -1,4 +1,4 @@
-package chapter7;
+package LiangSourceCodeExamples.chapter7;
 
 public class TestPassArray {
   /** Main method */
