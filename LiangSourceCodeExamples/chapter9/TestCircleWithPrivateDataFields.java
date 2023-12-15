@@ -1,4 +1,4 @@
-package chapter9;
+package LiangSourceCodeExamples.chapter9;
 
 public class TestCircleWithPrivateDataFields {
   /** Main method */
