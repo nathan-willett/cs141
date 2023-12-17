@@ -1,4 +1,4 @@
-package chapter12;
+package LiangSourceCodeExamples.chapter12;
 
 public class CircleWithException {
   /** The radius of the circle */

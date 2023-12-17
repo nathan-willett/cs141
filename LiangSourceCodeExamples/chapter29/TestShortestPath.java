@@ -1,4 +1,4 @@
-package chapter29;
+package LiangSourceCodeExamples.chapter29;
 
 public class TestShortestPath {
   public static void main(String[] args) {

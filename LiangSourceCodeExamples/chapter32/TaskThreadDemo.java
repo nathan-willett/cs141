@@ -1,4 +1,4 @@
-package chapter32;
+package LiangSourceCodeExamples.chapter32;
 
 public class TaskThreadDemo {
   public static void main(String[] args) {

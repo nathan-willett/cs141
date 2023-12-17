@@ -1,4 +1,4 @@
-package chapter13;
+package LiangSourceCodeExamples.chapter13;
 
 public abstract class GeometricObject {
   private String color = "white";

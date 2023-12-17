@@ -1,4 +1,4 @@
-package chapter15;
+package LiangSourceCodeExamples.chapter15;
 
 public class TestLambda {
   public static void main(String[] args) {

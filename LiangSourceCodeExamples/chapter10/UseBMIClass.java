@@ -1,4 +1,4 @@
-package chapter10;
+package LiangSourceCodeExamples.chapter10;
 
 public class UseBMIClass {
   public static void main(String[] args) {

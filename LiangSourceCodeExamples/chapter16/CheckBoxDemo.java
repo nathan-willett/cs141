@@ -1,4 +1,4 @@
-package chapter16;
+package LiangSourceCodeExamples.chapter16;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

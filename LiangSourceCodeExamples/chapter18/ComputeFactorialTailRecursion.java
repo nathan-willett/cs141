@@ -1,4 +1,4 @@
-package chapter18;
+package LiangSourceCodeExamples.chapter18;
 
 public class ComputeFactorialTailRecursion {
   /** Return the factorial for a specified number */

@@ -1,4 +1,4 @@
-package chapter24;
+package LiangSourceCodeExamples.chapter24;
 
 import java.util.Collection;
 

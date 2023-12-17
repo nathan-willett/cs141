@@ -1,4 +1,4 @@
-package chapter18;
+package LiangSourceCodeExamples.chapter18;
 
 public class RecursivePalindrome {
   public static boolean isPalindrome(String s) {

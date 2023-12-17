@@ -1,4 +1,4 @@
-package chapter18;
+package LiangSourceCodeExamples.chapter18;
 
 public class RecursiveSelectionSort {
   public static void sort(double[] list) {

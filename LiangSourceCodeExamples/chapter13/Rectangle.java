@@ -1,4 +1,4 @@
-package chapter13;
+package LiangSourceCodeExamples.chapter13;
 
 public class Rectangle extends GeometricObject {
   private double width;

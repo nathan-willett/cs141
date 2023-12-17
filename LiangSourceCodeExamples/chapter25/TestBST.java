@@ -1,4 +1,4 @@
-package chapter25;
+package LiangSourceCodeExamples.chapter25;
 
 public class TestBST {
   public static void main(String[] args) {

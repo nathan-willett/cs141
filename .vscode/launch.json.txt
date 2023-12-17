@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Launch App",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "your.package.name.MainClass",
+            "vmArgs": "--module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "your-project-name"
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-package chapter30;
+package LiangSourceCodeExamples.chapter30;
 
 import java.util.Random;
 import java.util.TreeMap;

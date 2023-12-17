@@ -1,4 +1,4 @@
-package chapter12;
+package LiangSourceCodeExamples.chapter12;
 
 public class InvalidRadiusException extends Exception {
   private double radius;

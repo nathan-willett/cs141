@@ -1,4 +1,4 @@
-package chapter24;
+package LiangSourceCodeExamples.chapter24;
 
 public class TestMyArrayList {
   public static void main(String[] args) {

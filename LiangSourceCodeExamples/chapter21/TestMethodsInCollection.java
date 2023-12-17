@@ -1,4 +1,4 @@
-package chapter21;
+package LiangSourceCodeExamples.chapter21;
 
 public class TestMethodsInCollection {
   public static void main(String[] args) {

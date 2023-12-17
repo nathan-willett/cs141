@@ -1,4 +1,4 @@
-package chapter20;
+package LiangSourceCodeExamples.chapter20;
 
 import chapter13.GeometricObject;
 import chapter13.Rectangle;

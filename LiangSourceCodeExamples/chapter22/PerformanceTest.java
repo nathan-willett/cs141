@@ -1,4 +1,4 @@
-package chapter22;
+package LiangSourceCodeExamples.chapter22;
 
 public class PerformanceTest {
   public static void main(String[] args) {

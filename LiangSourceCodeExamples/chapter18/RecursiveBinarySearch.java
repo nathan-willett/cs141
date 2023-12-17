@@ -1,4 +1,4 @@
-package chapter18;
+package LiangSourceCodeExamples.chapter18;
 
 public class RecursiveBinarySearch {
   public static int recursiveBinarySearch(int[] list, int key) {

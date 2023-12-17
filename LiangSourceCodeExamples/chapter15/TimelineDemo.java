@@ -1,4 +1,4 @@
-package chapter15;
+package LiangSourceCodeExamples.chapter15;
 
 import javafx.animation.Animation;
 import javafx.application.Application;

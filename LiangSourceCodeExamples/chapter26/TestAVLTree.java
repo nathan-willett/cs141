@@ -1,4 +1,4 @@
-package chapter26;
+package LiangSourceCodeExamples.chapter26;
 
 import chapter25.BST;
 

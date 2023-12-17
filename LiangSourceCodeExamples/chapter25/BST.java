@@ -1,4 +1,4 @@
-package chapter25;
+package LiangSourceCodeExamples.chapter25;
 
 public class BST<E> implements Tree<E> {
   protected TreeNode<E> root;

@@ -1,4 +1,4 @@
-package chapter27;
+package LiangSourceCodeExamples.chapter27;
 
 public class TestMyHashSet {
   public static void main(String[] args) {

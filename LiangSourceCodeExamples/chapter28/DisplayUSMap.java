@@ -1,4 +1,4 @@
-package chapter28;
+package LiangSourceCodeExamples.chapter28;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

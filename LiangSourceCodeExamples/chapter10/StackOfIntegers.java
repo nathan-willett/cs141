@@ -1,4 +1,4 @@
-package chapter10;
+package LiangSourceCodeExamples.chapter10;
 
 public class StackOfIntegers {
   private int[] elements;

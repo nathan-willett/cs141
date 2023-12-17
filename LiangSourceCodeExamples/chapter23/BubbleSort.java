@@ -1,4 +1,4 @@
-package chapter23;
+package LiangSourceCodeExamples.chapter23;
 
 public class BubbleSort {
   /** Bubble sort method */

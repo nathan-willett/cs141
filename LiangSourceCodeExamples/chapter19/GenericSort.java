@@ -1,4 +1,4 @@
-package chapter19;
+package LiangSourceCodeExamples.chapter19;
 
 public class GenericSort {
   public static void main(String[] args) {

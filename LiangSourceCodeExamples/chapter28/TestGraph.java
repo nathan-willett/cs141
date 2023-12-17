@@ -1,4 +1,4 @@
-package chapter28;
+package LiangSourceCodeExamples.chapter28;
 
 public class TestGraph {
   public static void main(String[] args) {

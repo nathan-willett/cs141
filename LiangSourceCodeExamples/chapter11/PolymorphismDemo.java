@@ -1,4 +1,4 @@
-package chapter11;
+package LiangSourceCodeExamples.chapter11;
 
 public class PolymorphismDemo {
   /** Main method */

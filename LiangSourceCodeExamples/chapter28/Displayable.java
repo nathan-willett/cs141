@@ -1,4 +1,4 @@
-package chapter28;
+package LiangSourceCodeExamples.chapter28;
 
 public interface Displayable {
   public int getX(); // Get x-coordinate of the vertex

@@ -1,4 +1,4 @@
-package chapter13;
+package LiangSourceCodeExamples.chapter13;
 
 public class Circle extends GeometricObject {
   private double radius;
