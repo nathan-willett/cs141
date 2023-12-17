@@ -1,4 +1,4 @@
-package chapter4;
+package LiangSourceCodeExamples.chapter4;
 
 public class FormatDemo { 
   public static void main(String[] args) { 

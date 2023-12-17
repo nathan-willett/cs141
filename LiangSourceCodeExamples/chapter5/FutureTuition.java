@@ -1,4 +1,4 @@
-package chapter5;
+package LiangSourceCodeExamples.chapter5;
 
 public class FutureTuition {
   public static void main(String[] args) { 

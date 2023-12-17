@@ -1,4 +1,4 @@
-package chapter7;
+package LiangSourceCodeExamples.chapter7;
 
 public class LinearSearch {
   /** The method for finding a key in the list */

@@ -1,4 +1,4 @@
-package chapter1;
+package LiangSourceCodeExamples.chapter1;
 
 // ShowRuntimeErrors.java: Program contains runtime errors
 public class ShowRuntimeErrors {

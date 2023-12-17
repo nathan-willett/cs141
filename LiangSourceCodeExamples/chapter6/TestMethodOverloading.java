@@ -1,4 +1,4 @@
-package chapter6;
+package LiangSourceCodeExamples.chapter6;
 
 public class TestMethodOverloading {
   /** Main method */
