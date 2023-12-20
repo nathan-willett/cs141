@@ -1,6 +1,6 @@
 package LiangSourceCodeExamples.chapter29;
 
-import chapter28.Edge;
+import LiangSourceCodeExamples.chapter28.Edge;
 
 public class WeightedEdge extends Edge
     implements Comparable<WeightedEdge> {

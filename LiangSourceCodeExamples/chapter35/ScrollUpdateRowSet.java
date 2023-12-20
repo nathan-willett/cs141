@@ -2,7 +2,7 @@ package LiangSourceCodeExamples.chapter35;
 
 import java.sql.*;
 import javax.sql.RowSet;
-import com.sun.rowset.JdbcRowSetImpl;
+import javax.sql.rowset.JdbcRowSetImpl;
 
 public class ScrollUpdateRowSet {
   public static void main(String[] args)

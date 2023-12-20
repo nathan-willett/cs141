@@ -1,6 +1,6 @@
 package LiangSourceCodeExamples.chapter26;
 
-import chapter25.BST;
+import LiangSourceCodeExamples.chapter25.BST;
 
 public class TestAVLTree {
   public static void main(String[] args) {

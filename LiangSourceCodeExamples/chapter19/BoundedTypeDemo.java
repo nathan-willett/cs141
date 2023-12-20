@@ -1,8 +1,8 @@
 package LiangSourceCodeExamples.chapter19;
 
-import chapter13.Circle;
-import chapter13.GeometricObject;
-import chapter13.Rectangle;
+import LiangSourceCodeExamples.chapter13.Circle;
+import LiangSourceCodeExamples.chapter13.GeometricObject;
+import LiangSourceCodeExamples.chapter13.Rectangle;
 
 public class BoundedTypeDemo {
   public static void main(String[] args ) {

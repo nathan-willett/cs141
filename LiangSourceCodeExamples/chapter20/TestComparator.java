@@ -1,8 +1,8 @@
 package LiangSourceCodeExamples.chapter20;
 
-import chapter13.GeometricObject;
-import chapter13.Rectangle;
-import chapter13.Circle;
+import LiangSourceCodeExamples.chapter13.GeometricObject;
+import LiangSourceCodeExamples.chapter13.Rectangle;
+import LiangSourceCodeExamples.chapter13.Circle;
 import java.util.Comparator;
 
 public class TestComparator {

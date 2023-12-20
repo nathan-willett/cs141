@@ -1,6 +1,6 @@
 package LiangSourceCodeExamples.chapter19;
 
-import chapter13.Rational;
+import LiangSourceCodeExamples.chapter13.Rational;
 
 public class RationalMatrix extends GenericMatrix<Rational> {
   @Override /** Add two rational numbers */

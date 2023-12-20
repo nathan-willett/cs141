@@ -1,6 +1,6 @@
 package LiangSourceCodeExamples.chapter24;
 
-import chapter19.GenericStack;
+import LiangSourceCodeExamples.chapter19.GenericStack;
 
 public class TestStackQueue {
   public static void main(String[] args) {

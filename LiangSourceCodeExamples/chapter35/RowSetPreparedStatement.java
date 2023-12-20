@@ -2,7 +2,7 @@ package LiangSourceCodeExamples.chapter35;
 
 import java.sql.*;
 import javax.sql.RowSet;
-import com.sun.rowset.*;
+import javax.sql.rowset.*;
 
 public class RowSetPreparedStatement {
   public static void main(String[] args)

@@ -1,6 +1,6 @@
 package LiangSourceCodeExamples.chapter15;
 
-import chapter10.Loan;
+import LiangSourceCodeExamples.chapter10.Loan;
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.geometry.HPos;
