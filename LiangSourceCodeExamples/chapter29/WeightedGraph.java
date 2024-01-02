@@ -1,7 +1,7 @@
 package LiangSourceCodeExamples.chapter29;
 
 import java.util.*;
-import chapter28.*;
+import LiangSourceCodeExamples.chapter28.*;
 
 public class WeightedGraph<V> extends UnweightedGraph<V> {
   /** Construct an empty */
