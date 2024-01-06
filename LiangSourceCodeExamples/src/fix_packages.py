@@ -5,7 +5,7 @@ def replace_package_declaration(directory, old_package_base, new_package_base, c
     for chapter in chapters:
         old_package = old_package_base + str(chapter)
         new_package = new_package_base + str(chapter)
-        for filename in glob.iglob(directory + '**/*.java', recursive=True):
+        for filename in glob.iglob(os.path.join(directory, '**/*.java'), recursive=True):
             with open(filename, 'r') as file:
                 filedata = file.read()
 
