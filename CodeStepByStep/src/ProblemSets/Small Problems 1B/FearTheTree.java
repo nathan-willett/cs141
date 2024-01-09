@@ -1,5 +1,7 @@
-package CodeStepByStep.Small Problems 1A.Small Problems 1B;
-
 public class FearTheTree {
-    
+    public static void main(String[] args) {
+        System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" + "\n" +
+            "|| FEAR THE TREE! ||" + "\n" +
+            "////////////////////");
+    }
 }
