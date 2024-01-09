@@ -1,3 +1,8 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "LiangSourceCodeExamples/src/ChaptersByWeek/week1/chapter1",
+        "CodeStepByStep/src/ProblemSets/Small Problems 1A",
+        "CodeStepByStep/src/ProblemSets/Small Problems 1B"
+    ]
 }
