@@ -1,11 +1,6 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "LiangSourceCodeExamples/src/ChaptersByWeek/week2",
-        "LiangSourceCodeExamples/src/ChaptersByWeek/week1",
-        "LiangSourceCodeExamples/src/ChaptersByNumber/chapter35",
-        "CodeStepByStep/src/ProblemSets/Small Problems 1B",
-        "CodeStepByStep/src/ProblemSets/Lab 1",
-        "CodeStepByStep/src/ProblemSets/Small Problems 2A"
+        "CodeStepByStep/src/Small Problems 2A"
     ]
 }
