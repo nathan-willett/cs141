@@ -2,6 +2,7 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
         "CodeStepByStep/src/Small Problems 2A",
-        "CodeStepByStep/src"
+        "CodeStepByStep/src",
+        "ExampleCodeByWeek/src/week3"
     ]
 }
