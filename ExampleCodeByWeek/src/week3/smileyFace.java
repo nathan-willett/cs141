@@ -1,8 +1,6 @@
 package week3;
 
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Panel; // Import the necessary package that contains the DrawingPanel class
+import java.awt.*; // Import the entire package that contains the Graphics class
 
 public class smileyFace {
    public static void main(String [] args) {

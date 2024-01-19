@@ -7,7 +7,8 @@
 
 package week2;
 
-import java.awt.*; // needed so we can use DrawingPanel
+import graphics.DrawingPanel; // needed so we can use DrawingPanel
+import java.awt.*; // needed so we can use Color and Graphics
 
 public class Drawing {
    public static void main(String [] args) {
