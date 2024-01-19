@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter21;
+package chapter21;
 
 import LiangSourceCodeExamples.chapter13.GeometricObject;
 import LiangSourceCodeExamples.chapter13.Circle;

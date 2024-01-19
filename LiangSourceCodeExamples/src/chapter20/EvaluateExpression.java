@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter20;
+package chapter20;
 
 import java.util.Stack;
 

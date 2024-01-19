@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter20;
+package chapter20;
 
 public class SortStringIgnoreCase {
   public static void main(String[] args) {

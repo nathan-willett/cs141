@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter12;
+package chapter12;
 
 public class ChainedExceptionDemo {
   public static void main(String[] args) {

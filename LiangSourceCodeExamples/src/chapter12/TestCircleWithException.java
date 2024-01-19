@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter12;
+package chapter12;
 
 public class TestCircleWithException {
   public static void main(String[] args) {

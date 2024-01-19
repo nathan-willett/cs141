@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter36;
+package chapter36;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

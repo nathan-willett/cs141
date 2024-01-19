@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter16;
+package chapter16;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.RadioButton;

@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter32;
+package chapter32;
 
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;

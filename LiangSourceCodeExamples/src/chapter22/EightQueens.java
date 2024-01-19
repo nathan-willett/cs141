@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter22;
+package chapter22;
 
 import javafx.application.Application;
 import javafx.geometry.Pos;

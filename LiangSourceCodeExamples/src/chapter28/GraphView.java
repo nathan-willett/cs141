@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter28;
+package chapter28;
 
 import javafx.scene.layout.Pane;
 import javafx.scene.shape.Circle;

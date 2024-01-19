@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter13;
+package chapter13;
 
 public class TestGeometricObject {
   /** Main method */

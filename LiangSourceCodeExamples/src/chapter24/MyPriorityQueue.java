@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter24;
+package chapter24;
 
 public class MyPriorityQueue<E> {
   private Heap<E> heap; 

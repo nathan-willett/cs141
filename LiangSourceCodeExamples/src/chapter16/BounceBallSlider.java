@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter16;
+package chapter16;
 
 import LiangSourceCodeExamples.chapter15.BallPane;
 import javafx.application.Application;

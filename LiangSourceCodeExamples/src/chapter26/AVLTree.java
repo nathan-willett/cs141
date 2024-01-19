@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter26;
+package chapter26;
 
 public class AVLTree<E> extends BST<E> {
   /** Create an empty AVL tree using a natural comparator*/

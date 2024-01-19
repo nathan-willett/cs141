@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter35;
+package chapter35;
 
 import java.sql.SQLException;
 import javax.sql.RowSet;

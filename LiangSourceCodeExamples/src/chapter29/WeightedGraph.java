@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter29;
+package chapter29;
 
 import java.util.*;
 import LiangSourceCodeExamples.chapter28.*;

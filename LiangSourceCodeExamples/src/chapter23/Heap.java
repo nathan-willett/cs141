@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter23;
+package chapter23;
 
 public class Heap<E> {
   private java.util.ArrayList<E> list = new java.util.ArrayList<>();

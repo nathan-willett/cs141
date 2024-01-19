@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter10;
+package chapter10;
 
 public class BMI {
   private String name;

@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter12;
+package chapter12;
 
 public class FinallyDemo {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter12;
+package chapter12;
 
 public class TestFileClass {
   public static void main(String[] args) {

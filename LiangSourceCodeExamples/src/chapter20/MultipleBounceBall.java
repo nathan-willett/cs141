@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter20;
+package chapter20;
 
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;

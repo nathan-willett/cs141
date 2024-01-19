@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter33;
+package chapter33;
 
 import java.io.*;
 import java.net.*;

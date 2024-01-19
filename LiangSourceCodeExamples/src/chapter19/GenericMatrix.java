@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter19;
+package chapter19;
 
 public abstract class GenericMatrix<E extends Number> {
   /** Abstract method for adding two elements of the matrices */

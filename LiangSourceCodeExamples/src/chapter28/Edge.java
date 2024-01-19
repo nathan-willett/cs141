@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter28;
+package chapter28;
 
 public class Edge {
   public int u;

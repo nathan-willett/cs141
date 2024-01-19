@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter28;
+package chapter28;
 
 import javafx.application.Application;
 import javafx.geometry.Point2D;

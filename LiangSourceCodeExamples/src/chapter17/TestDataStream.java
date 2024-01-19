@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter17;
+package chapter17;
 
 import java.io.*;
 

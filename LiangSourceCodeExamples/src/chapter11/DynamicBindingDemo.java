@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter11;
+package chapter11;
 
 public class DynamicBindingDemo {
   public static void main(String[] args) {

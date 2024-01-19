@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter36;
+package chapter36;
 
 import java.text.DateFormatSymbols;
 import java.text.SimpleDateFormat;

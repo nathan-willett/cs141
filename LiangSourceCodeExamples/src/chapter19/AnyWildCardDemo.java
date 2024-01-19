@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter19;
+package chapter19;
 
 public class AnyWildCardDemo {
   public static void main(String[] args ) {

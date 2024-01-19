@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter19;
+package chapter19;
 
 public class MaxUsingGenericType {
   /** Return the maximum between two objects */

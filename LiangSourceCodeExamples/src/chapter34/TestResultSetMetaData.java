@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter34;
+package chapter34;
 
 import java.sql.*;
 

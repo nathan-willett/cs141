@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter23;
+package chapter23;
 
 public class MergeSort {
   /** The method for sorting the numbers */

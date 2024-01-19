@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter11;
+package chapter11;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter30;
+package chapter30;
 
 import java.io.File;
 import java.nio.file.Files;

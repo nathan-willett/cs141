@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter23;
+package chapter23;
 
 import java.util.Comparator;
 

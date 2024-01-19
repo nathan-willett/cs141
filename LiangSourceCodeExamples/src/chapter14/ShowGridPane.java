@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter14;
+package chapter14;
 
 import javafx.application.Application;
 import javafx.geometry.HPos;

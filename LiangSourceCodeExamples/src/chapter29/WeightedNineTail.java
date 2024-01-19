@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter29;
+package chapter29;
 
 import LiangSourceCodeExamples.chapter28.NineTailModel;
 import java.util.Scanner;
