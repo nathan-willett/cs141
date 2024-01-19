@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter6;
+package chapter6;
 
 public class TestMax {
   /** Main method */

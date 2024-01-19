@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter2;
+package chapter2;
 
 public class ComputeArea {
   public static void main(String[] args) {

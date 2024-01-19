@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter7;
+package chapter7;
 
 import LiangSourceCodeExamples.chapter6.RandomCharacter;
 

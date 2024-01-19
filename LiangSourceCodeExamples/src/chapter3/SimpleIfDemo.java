@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter3;
+package chapter3;
 
 import java.util.Scanner;
 

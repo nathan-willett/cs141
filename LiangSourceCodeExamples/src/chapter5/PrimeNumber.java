@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter5;
+package chapter5;
 
 public class PrimeNumber {
   public static void main(String[] args) {

@@ -19,6 +19,6 @@ def replace_package_declaration(directory, old_package_base, new_package_base, c
                     file.write(filedata)
 
 # List of chapters to process
-chapters = range(10, 37)  # Replace with your actual chapters
+chapters = range(1, 37)  # Now it includes all chapters from 1 to 36
 
 replace_package_declaration('C:\\GitHub\\cs141\\LiangSourceCodeExamples\\src\\', 'LiangSourceCodeExamples.chapter', 'chapter', chapters)

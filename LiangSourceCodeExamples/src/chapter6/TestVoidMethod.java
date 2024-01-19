@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter6;
+package chapter6;
 
 public class TestVoidMethod {
   public static void main(String[] args) {

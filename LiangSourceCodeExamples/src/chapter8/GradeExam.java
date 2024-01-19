@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter8;
+package chapter8;
 
 public class GradeExam {
   /** Main method */

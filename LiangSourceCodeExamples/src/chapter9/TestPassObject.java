@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter9;
+package chapter9;
 
 public class TestPassObject {
   /** Main method */

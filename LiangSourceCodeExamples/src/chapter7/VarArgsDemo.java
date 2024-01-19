@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter7;
+package chapter7;
 
 public class VarArgsDemo {
   public static void main(String args[]) {

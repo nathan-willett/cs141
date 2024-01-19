@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter9;
+package chapter9;
 
 import javax.swing.JFrame;
 

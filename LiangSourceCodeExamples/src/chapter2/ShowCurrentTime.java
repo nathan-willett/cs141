@@ -1,4 +1,4 @@
-package LiangSourceCodeExamples.chapter2;
+package chapter2;
 
 public class ShowCurrentTime {
   public static void main(String[] args) {
