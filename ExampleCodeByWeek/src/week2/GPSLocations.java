@@ -1,5 +1,7 @@
  // This is an example of the call of a method that accepts parameters 
 
+package week2;
+
 import java.util.Scanner;
 
 public class GPSLocations {

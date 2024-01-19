@@ -1,5 +1,7 @@
 // Minimizing numeric errors
 
+package week2;
+
 public class TestSum {
   public static void main(String[] args) {
     // Initialize sum

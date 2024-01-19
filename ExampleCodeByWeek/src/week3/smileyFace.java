@@ -1,4 +1,8 @@
-import java.awt.*;
+package week3;
+
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Panel; // Import the necessary package that contains the DrawingPanel class
 
 public class smileyFace {
    public static void main(String [] args) {
@@ -6,7 +10,7 @@ public class smileyFace {
    }
    
    public static void smileyFace2() {
-      DrawingPanel panel = new DrawingPanel(300, 150);
+      Panel panel = new Panel(); // Update the variable type to Panel
       Graphics g = panel.getGraphics();
       g.setColor(Color.BLACK);
       g.drawRect(20, 10, 100, 100);

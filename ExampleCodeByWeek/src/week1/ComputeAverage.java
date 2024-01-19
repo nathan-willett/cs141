@@ -1,3 +1,5 @@
+package week1;
+
 import java.util.Scanner; // Scanner is in the java.util package
 
 public class ComputeAverage {

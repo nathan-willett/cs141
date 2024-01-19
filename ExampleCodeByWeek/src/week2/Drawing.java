@@ -5,6 +5,8 @@
 // This program opens a 200 by 300 window and draws a red rectangle covered by 
 // a yellow oval. Both are located in the upper righthand corner.
 
+package week2;
+
 import java.awt.*; // needed so we can use DrawingPanel
 
 public class Drawing {
