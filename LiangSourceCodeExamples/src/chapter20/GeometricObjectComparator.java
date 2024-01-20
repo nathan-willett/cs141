@@ -1,6 +1,6 @@
 package chapter20;
 
-import LiangSourceCodeExamples.chapter13.GeometricObject;
+import chapter13.GeometricObject;
 import java.util.Comparator;
 
 public class GeometricObjectComparator

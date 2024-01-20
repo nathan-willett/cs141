@@ -1,6 +1,6 @@
 package chapter7;
 
-import LiangSourceCodeExamples.chapter6.RandomCharacter;
+import chapter6.RandomCharacter;
 
 public class CountLettersInArray {
   /** Main method */
