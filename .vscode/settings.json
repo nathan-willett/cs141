@@ -1,8 +1,17 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "CodeStepByStep/src",
-        "ExampleCodeByWeek/src",
-        "LiangSourceCodeExamples/src"
+        "CodeStepByStep/src/SmallProblems4A_1-24",
+        "CodeStepByStep/src/SmallProblems3B_1-22",
+        "CodeStepByStep/src/SmallProblems3A_1-22",
+        "CodeStepByStep/src/SmallProblems2B_1-16",
+        "CodeStepByStep/src/SmallProblems2A_1-10",
+        "CodeStepByStep/src/SmallProblems1B_1-8",
+        "CodeStepByStep/src/SmallProblems1A_1-8",
+        "CodeStepByStep/src/Lab4_1-29",
+        "CodeStepByStep/src/Lab3_1-22",
+        "CodeStepByStep/src/Lab2_1-22",
+        "CodeStepByStep/src/Lab1_1-16",
+        "CodeStepByStep/src/SmallProblems4B_1-29"
     ]
 }
