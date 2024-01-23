@@ -21,15 +21,9 @@
  * 
  */
 
-import java.util.Scanner;
-
 public class numberLoops4Constant_B {
+    public static final int SIZE = 6;
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
-        System.out.print("Enter SIZE: ");
-        int SIZE = input.nextInt(); // Define the constant SIZE
-        
         for (int i = 1; i <= SIZE; i++) {
             for (int j = 1; j <= SIZE - i; j++) {
                 System.out.print(".");
@@ -40,7 +34,5 @@ public class numberLoops4Constant_B {
             }
             System.out.println();
         }
-        
-        input.close(); // Close the Scanner object
     }
 }
