@@ -1,3 +1,7 @@
+/*
+ * The following console program uses parameters and produces five lines of output. What are they?
+ */
+
 public class parameterMysteryExam1 {
     public static void main(String[] args) {
         String x = "java";
@@ -13,5 +17,8 @@ public class parameterMysteryExam1 {
         hamburger(y, y, "java");
     }
 
-    public static void hamburger(String y, String z, String x) {}
+    public static String hamburger(String y, String z, String x) {
+        System.out.println(z + " and " + x + " like " + y);
+        return z;
+    }
 }
