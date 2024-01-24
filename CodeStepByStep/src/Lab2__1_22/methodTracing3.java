@@ -1,5 +1,3 @@
-package Lab_2;
-
 public class methodTracing3 {
     public static void main(String[] args) {
         methodA();
