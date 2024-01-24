@@ -1,17 +1,6 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "CodeStepByStep/src/Lab1__1_16",
-        "CodeStepByStep/src/Lab2__1_22",
-        "CodeStepByStep/src/Lab3__1_22",
-        "CodeStepByStep/src/Lab4__1_29",
-        "CodeStepByStep/src/SmallProblems1A__1_8",
-        "CodeStepByStep/src/SmallProblems1B__1_8",
-        "CodeStepByStep/src/SmallProblems2A__1_10",
-        "CodeStepByStep/src/SmallProblems2B__1_16",
-        "CodeStepByStep/src/SmallProblems3A__1_22",
-        "CodeStepByStep/src/SmallProblems3B__1_22",
-        "CodeStepByStep/src/SmallProblems4A__1_24",
-        "CodeStepByStep/src/SmallProblems4B__1_29",
+        "CodeStepByStep/src/Lab2__1_22"
     ]
 }
