@@ -1,6 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "CodeStepByStep/src/Lab2__1_22"
+        "CodeStepByStep/src/Lab4__1_29",
+        "CodeStepByStep/src/Lab2__1_22",
+        "CodeStepByStep/src/Lab5__1_29"
     ]
 }
