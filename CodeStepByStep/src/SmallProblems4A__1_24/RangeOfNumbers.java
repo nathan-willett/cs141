@@ -19,16 +19,13 @@
  * Start? 42
  * End? 42
  * 42
- * 
- * 
- * hello 
  */
 
 import java.util.Scanner;
 
 public class RangeOfNumbers {
     public static void main(String[] args) {
-        scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         // Prompt the user for the start and end numbers
         System.out.print("Start? ");
@@ -52,6 +49,10 @@ public class RangeOfNumbers {
                     System.out.print(", ");
                 }
             }
+        } else {
+            // Start and end are the same, so print the number once
+            System.out.print(start);
         }
+        scanner.close();
     }
 }
