@@ -1,5 +1,4 @@
-package Small_Problems_1B;
-
+import CodeStepByStep.lib.DrawingPanel;
 import java.awt.*;
 
 public class drawCar {
