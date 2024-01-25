@@ -1,4 +1,3 @@
-import CodeStepByStep.lib.DrawingPanel;
 import java.awt.*;
 
 public class drawCar {
