@@ -15,5 +15,10 @@
         "CodeStepByStep\\src\\SmallProblems3B__1_22",
         "CodeStepByStep\\src\\SmallProblems4A__1_24",
         "CodeStepByStep\\src\\SmallProblems4B__1_29"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "CodeStepByStep\\lib\\DrawingPanel.jar",
+        "ExampleCodeByWeek\\lib\\DrawingPanel.jar"
     ]
 }
