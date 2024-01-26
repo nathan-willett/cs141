@@ -17,7 +17,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `DrawingPanel` class, used for graphical operations, is archived in the `cs141/Archive/graphics` directory. The compiled class is included in a JAR file located in the `lib` directory. If you need to modify the `DrawingPanel` class:
 
-1. Navigate to `Archive/graphics`.
+1. Navigate to `cs141/Archive/graphics`.
 2. Make the necessary changes to `DrawingPanel.java`.
 3. Recompile the class: `javac DrawingPanel.java`.
 4. Update the JAR file in `lib`: `jar cvf ../lib/DrawingPanel.jar graphics/`.
