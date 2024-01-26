@@ -8,7 +8,6 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
-- `Archive`: the folder containing archived source files, including the `DrawingPanel` class.
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
@@ -16,13 +15,24 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Managing `DrawingPanel` Source
 
-The `DrawingPanel` class, used for graphical operations, is archived in the `Archive/graphics` directory. The compiled class is included in a JAR file located in the `lib` directory. If you need to modify the `DrawingPanel` class:
+The `DrawingPanel` class, used for graphical operations, is archived in the `cs141/Archive/graphics` directory. The compiled class is included in a JAR file located in the `lib` directory. If you need to modify the `DrawingPanel` class:
 
 1. Navigate to `Archive/graphics`.
 2. Make the necessary changes to `DrawingPanel.java`.
 3. Recompile the class: `javac DrawingPanel.java`.
 4. Update the JAR file in `lib`: `jar cvf ../lib/DrawingPanel.jar graphics/`.
 5. Ensure the updated JAR file is referenced in your project settings.
+
+**PLEASE NOTE**
+DrawingPanel.jar exists in the following locations:
+- "cs141\CodeStepByStep\lib"
+- "cs141\ExampleCodeByWeek\lib"
+
+Should DrawingPanel.jar require any modifications, all locations listed above must receive the new version of the file. To check compatibility, please test the programs listed below.
+
+DrawingPanel.jar is used by the following programs:
+- "cs141\CodeStepByStep\src\SmallProblems1B__1_8\DrawCar.java"
+- "cs141\ExampleCodeByWeek\src\week2\Drawing.java"
 
 ## Dependency Management
 
