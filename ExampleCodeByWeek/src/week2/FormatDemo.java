@@ -1,7 +1,5 @@
 // The example gives a program that uses printf to display a table.
 
-package week2;
-
 public class FormatDemo { 
   public static void main(String[] args) { 
     // Display the header of the table 

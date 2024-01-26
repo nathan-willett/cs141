@@ -16,7 +16,10 @@
         "CodeStepByStep/src/Lab2__1_22",
         "CodeStepByStep/src/Lab1__1_16",
         "CodeStepByStep/lib",
-        "ExampleCodeByWeek/src/week2"
+        "ExampleCodeByWeek/src/week2",
+        "ExampleCodeByWeek\\src\\week1",
+        "ExampleCodeByWeek\\src\\week3",
+        "ExampleCodeByWeek\\src\\week4"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",

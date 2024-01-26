@@ -1,5 +1,3 @@
-package week3;
-
 import java.awt.*; // Import the entire package that contains the Graphics class
 
 public class smileyFace {

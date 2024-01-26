@@ -1,5 +1,3 @@
-package week3;
-
 public class TestVoidMethod {
   public static void main(String[] args) {
     System.out.print("The grade is ");

@@ -1,8 +1,6 @@
 // A program that prompts the user to enter the x- and y-coordinates of the three corner points 
 // in a triangle and then displays the triangle’s angles
 
-package week2;
-
 import java.util.Scanner;
 
 public class ComputeAngles {

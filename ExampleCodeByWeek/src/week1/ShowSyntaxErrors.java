@@ -1,5 +1,3 @@
-package week1;
-
 public class ShowSyntaxErrors {
   // This code has syntax error by purpose
   public static main(String[] args) {

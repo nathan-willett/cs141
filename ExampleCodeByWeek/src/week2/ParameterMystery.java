@@ -1,5 +1,3 @@
-package week2;
-
 public class ParameterMystery {
     public static void main(String[] args) {
         int x = 9;

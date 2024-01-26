@@ -7,9 +7,8 @@ public class variableScope {
         int count = 12;
         for (int i = 1; i <= 12; i++) {
             runSample();
-            System.out.print(i);
+            System.out.print(count);   
         }
-        //System.out.print(i);
     }
     
     public static void runSample() {

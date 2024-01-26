@@ -1,5 +1,3 @@
-package week3;
-
 public class TestReturnGradeMethod {
   public static void main(String[] args) {
     System.out.print("The grade is " + getGrade(78.5));

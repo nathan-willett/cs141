@@ -1,7 +1,5 @@
 // The Monte Carlo Simulation refers to a technique that uses random numbers and probability to solve problems
 
-package week2;
-
 public class MonteCarloSimulation {
   public static void main(String[] args) {
     final int NUMBER_OF_TRIALS = 10000000;
