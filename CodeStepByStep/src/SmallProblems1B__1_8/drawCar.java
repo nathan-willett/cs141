@@ -1,48 +1,31 @@
+// Write a method called drawCar that draws a car on a 200 wide and 100 tall DrawingPanel with a 
+// light gray background. The car body should be a black rectangle 100 wide and 50 tall. 
+// Its upper left corner should be 10 from the left side of the panel and 30 down from the top.
+// 
+// The car should have two circular red wheels that are 20 wide and 20 tall. They should both be 
+// placed 70 from the top. One should be placed 20 from the left side, the other 80 from the left side.
+// 
+// The car should have a cyan colored windshield. It should be 30 wide, 20 tall and 
+// placed 40 down and 80 from the left side.
+
+import graphics.DrawingPanel;
 import java.awt.*;
 
-public class drawCar {
-    public static void main(String[] args) {
-        // Create a DrawingPanel object
-        DrawingPanel panel = new DrawingPanel(200, 100);
-        Graphics g = panel.getGraphics();
+// public class DrawCar {
+//   public static void main(String[] args) {
+//      DrawingPanel panel = new DrawingPanel(200, 100);
 
-        drawCar(g);
-    }
-
-    // Method to draw the car
-    public static void drawCar(Graphics g) {
-        // Set the color to black and draw the car body
-        g.setColor(Color.BLACK);
-        g.fillRect(10, 30, 100, 50); // Rectangle at x=10, y=30, width=100, height=50
-
-        // Set the color to red and draw the wheels
-        g.setColor(Color.RED);
-        g.fillOval(20, 70, 20, 20); // Left wheel
-        g.fillOval(80, 70, 20, 20); // Right wheel
-
-        // Set the color to cyan and draw the windshield
-        g.setColor(Color.CYAN);
-        g.fillRect(80, 40, 30, 20); // Windshield at x=80, y=40, width=30, height=20
-    }
-
-    // Method to draw the car
-    public void drawCar() {
-        // Create a DrawingPanel with 200 width and 100 height, and dark gray background
-        DrawingPanel panel = new DrawingPanel(200, 100);
-        panel.setBackground(Color.LIGHT_GRAY); // Set background to light gray
-        Graphics g = panel.getGraphics();
-
-        // Set the color to black and draw the car body
-        g.setColor(Color.BLACK);
-        g.fillRect(10, 30, 100, 50); // Rectangle at x=10, y=30, width=100, height=50
-
-        // Set the color to red and draw the wheels
-        g.setColor(Color.RED);
-        g.fillOval(20, 70, 20, 20); // Left wheel
-        g.fillOval(80, 70, 20, 20); // Right wheel
-
-        // Set the color to cyan and draw the windshield
-        g.setColor(Color.CYAN);
-        g.fillRect(80, 40, 30, 20); // Windshield at x=80, y=40, width=30, height=20
-    }
+public class DrawCar {
+   public static void main(String [] args) {
+      DrawingPanel panel = new DrawingPanel(200, 100);
+      Graphics g = panel.getGraphics();
+      panel.setBackground(Color.LIGHT_GRAY);
+      g.setColor(Color.BLACK);
+      g.fillRect(10, 30, 100, 50);
+      g.setColor(Color.RED);
+      g.fillOval(20, 70, 20, 20);
+      g.fillOval(80, 70, 20, 20);
+      g.setColor(Color.CYAN);
+      g.fillRect(80, 40, 30, 20);
+   }
 }

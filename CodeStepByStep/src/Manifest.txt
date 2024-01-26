@@ -1,1 +1,0 @@
-Main-Class: SmallProblems1B__1_8.DrawingPanel
