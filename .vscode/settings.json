@@ -1,6 +1,7 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        "CodeStepByStep/src/graphics",
         "CodeStepByStep/src/SmallProblems4B__1_29",
         "CodeStepByStep/src/SmallProblems4A__1_24",
         "CodeStepByStep/src/SmallProblems3B__1_22",
@@ -15,7 +16,7 @@
         "CodeStepByStep/src/Lab2__1_22",
         "CodeStepByStep/src/Lab1__1_16",
         "CodeStepByStep/lib",
-        "CodeStepByStep/src/graphics"
+        "ExampleCodeByWeek/src/week2"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
