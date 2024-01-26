@@ -24,15 +24,15 @@ The `DrawingPanel` class, used for graphical operations, is archived in the `cs1
 5. Ensure the updated JAR file is referenced in your project settings.
 
 **PLEASE NOTE**
-DrawingPanel.jar exists in the following locations:
-- "cs141\CodeStepByStep\lib"
-- "cs141\ExampleCodeByWeek\lib"
+`DrawingPanel.jar` exists in the following locations:
+- `cs141\CodeStepByStep\lib`
+- `cs141\ExampleCodeByWeek\lib`
 
-Should DrawingPanel.jar require any modifications, all locations listed above must receive the new version of the file. To check compatibility, please test the programs listed below.
+Should `DrawingPanel.jar` require any modifications, all locations listed above must receive the new version of the file. To check compatibility, please test the programs listed below.
 
-DrawingPanel.jar is used by the following programs:
-- "cs141\CodeStepByStep\src\SmallProblems1B__1_8\DrawCar.java"
-- "cs141\ExampleCodeByWeek\src\week2\Drawing.java"
+`DrawingPanel.jar` is used by the following programs:
+- `cs141\CodeStepByStep\src\SmallProblems1B__1_8\DrawCar.java`
+- `cs141\ExampleCodeByWeek\src\week2\Drawing.java`
 
 ## Dependency Management
 
