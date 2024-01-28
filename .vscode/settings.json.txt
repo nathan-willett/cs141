@@ -1,5 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "C:\\DevTools\\!Libraries\\javafx-sdk-21.0.1\\lib\\*.jar"
-    ]
-}
