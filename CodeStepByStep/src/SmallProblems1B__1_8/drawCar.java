@@ -11,10 +11,6 @@
 import graphics.DrawingPanel;
 import java.awt.*;
 
-// public class DrawCar {
-//   public static void main(String[] args) {
-//      DrawingPanel panel = new DrawingPanel(200, 100);
-
 public class DrawCar {
    public static void main(String [] args) {
       DrawingPanel panel = new DrawingPanel(200, 100);
