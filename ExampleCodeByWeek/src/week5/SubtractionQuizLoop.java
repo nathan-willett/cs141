@@ -1,3 +1,7 @@
+/*
+ * Midterm Question
+ */
+
 import java.util.Scanner;
 
 public class SubtractionQuizLoop {
