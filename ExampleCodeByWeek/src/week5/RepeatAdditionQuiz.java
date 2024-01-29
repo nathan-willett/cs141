@@ -18,6 +18,9 @@ public class RepeatAdditionQuiz {
       answer = input.nextInt();
     }
 
+    // Close the Scanner
+    input.close();
+
     System.out.println("You got it!");
   }
 }

@@ -19,7 +19,8 @@
         "ExampleCodeByWeek/src/week2",
         "ExampleCodeByWeek\\src\\week1",
         "ExampleCodeByWeek\\src\\week3",
-        "ExampleCodeByWeek\\src\\week4"
+        "ExampleCodeByWeek\\src\\week4",
+        "ExampleCodeByWeek\\src\\week5"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
