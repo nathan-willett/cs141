@@ -7,23 +7,22 @@ public class Squares3 {
         panel.setBackground(Color.CYAN);
         Graphics g = panel.getGraphics();
 
-        // Draw figures at specified positions with specified sizes
-        drawFigure(g, 50, 50, 20);  // Original size for the first figure
-        drawFigure(g, 250, 10, 50); // Size 50 for the top right figure
-        drawFigure(g, 180, 115, 180); // Size 180 for the bottom right figure
+        // Draw figures at specified positions with correct size increments
+        drawFigure(g, 50, 50, 20);   // Original figure with size increment 20
+        drawFigure(g, 250, 10, 10);  // Top-right figure with size increment 10
+        drawFigure(g, 180, 115, 36); // Bottom-right figure with size increment 36
     }
 
-    // Parameterized method to draw a figure at a given position and size
-    public static void drawFigure(Graphics g, int x, int y, int size) {
+    // Parameterized method to draw a figure at a given position and size increment
+    public static void drawFigure(Graphics g, int x, int y, int sizeIncrement) {
         g.setColor(Color.RED);
-        for (int i = 1; i <= 5; i++) {
-            g.drawRect(x, y, size * i, size * i);
+        for (int i = 0; i < 5; i++) {
+            g.drawRect(x, y, sizeIncrement * (i + 1), sizeIncrement * (i + 1));
         }
 
         g.setColor(Color.BLACK);
-        for (int i = 1; i <= 5; i++) {
-            g.drawLine(x, y, x + size * i, y + size * i);
+        for (int i = 0; i < 5; i++) {
+            g.drawLine(x, y, x + sizeIncrement * (i + 1), y + sizeIncrement * (i + 1));
         }
     }
 }
-

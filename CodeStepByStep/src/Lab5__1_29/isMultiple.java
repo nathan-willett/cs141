@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
  * Write a method named isMultiple that accepts two non-negative integer parameters a and b, and returns true 
  * if a is a multiple of b, and false otherwise. For example, the call of isMultiple(15, 5) would return true 

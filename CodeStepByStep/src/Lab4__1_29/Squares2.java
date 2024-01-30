@@ -7,6 +7,7 @@
  * static methods to reduce the redundancy of your solution.
  */
 
+import graphics.DrawingPanel;
 import java.awt.*;
 
 public class Squares2 {
