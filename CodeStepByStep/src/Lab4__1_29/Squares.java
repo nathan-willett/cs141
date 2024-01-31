@@ -13,6 +13,7 @@
  * 
  */
 
+import graphics.DrawingPanel; // needed so we can use DrawingPanel
 import java.awt.*;
 
 public class Squares {
@@ -23,6 +24,11 @@ public class Squares {
         g.setColor(Color.RED);
         for (int i = 1; i <= 5; i++) {
             g.drawRect(50, 50, 20 * i, 20 * i);
+        }
+
+        g.setColor(Color.BLACK);
+        for (int i = 1; i <= 5; i++) {
+            g.drawLine(50, 50, 50 + 20 * i, 50 + 20 * i);
         }
     }
 }
