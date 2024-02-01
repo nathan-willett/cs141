@@ -6,6 +6,7 @@
         "ExampleCodeByWeek/src/week3",
         "ExampleCodeByWeek/src/week2",
         "ExampleCodeByWeek/src/week1",
+        "CodeStepByStep/src/SmallProblems5A__2_2",
         "CodeStepByStep/src/SmallProblems4B__1_29",
         "CodeStepByStep/src/SmallProblems4A__1_24",
         "CodeStepByStep/src/SmallProblems3B__1_22",
@@ -15,14 +16,13 @@
         "CodeStepByStep/src/SmallProblems1B__1_8",
         "CodeStepByStep/src/SmallProblems1A__1_8",
         "CodeStepByStep/src/Lab7__2_4",
-        "CodeStepByStep/src/Lab6__2_5",
         "CodeStepByStep/src/Lab5__1_29",
         "CodeStepByStep/src/Lab4__1_29",
         "CodeStepByStep/src/Lab3__1_22",
         "CodeStepByStep/src/Lab2__1_22",
         "CodeStepByStep/src/Lab1__1_16",
         "CodeStepByStep/lib",
-        "CodeStepByStep/src/SmallProblems5A__2_2"
+        "CodeStepByStep/src/Quiz4"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
