@@ -1,3 +1,5 @@
+package week4;
+
 public class variableScope {
     public static void main(String[] args) {
         performTest();

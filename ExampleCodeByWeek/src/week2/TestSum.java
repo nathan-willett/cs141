@@ -1,3 +1,5 @@
+package week2;
+
 // Minimizing numeric errors
 
 public class TestSum {

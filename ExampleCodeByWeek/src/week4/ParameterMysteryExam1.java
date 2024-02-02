@@ -1,3 +1,5 @@
+package week4;
+
 // Small Problems 3A (#5)
 // The following console program uses parameters and produces five lines of output. What are they?
 // This is a MidTerm Example

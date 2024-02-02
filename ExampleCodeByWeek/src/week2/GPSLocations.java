@@ -1,3 +1,5 @@
+package week2;
+
  // This is an example of the call of a method that accepts parameters 
 
 import java.util.Scanner;

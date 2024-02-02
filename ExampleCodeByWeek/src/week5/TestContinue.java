@@ -1,3 +1,5 @@
+package week5;
+
 public class TestContinue {
   public static void main(String[] args) {
     int sum = 0;

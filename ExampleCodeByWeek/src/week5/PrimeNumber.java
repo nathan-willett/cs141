@@ -1,3 +1,5 @@
+package week5;
+
 public class PrimeNumber {
   public static void main(String[] args) {
     final int NUMBER_OF_PRIMES = 50; // Number of primes to display

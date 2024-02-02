@@ -1,3 +1,5 @@
+package week2;
+
 // Allison Obourn
 // CS& 141
 // Lecture 2

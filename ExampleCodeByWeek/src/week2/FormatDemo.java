@@ -1,3 +1,5 @@
+package week2;
+
 // The example gives a program that uses printf to display a table.
 
 public class FormatDemo { 

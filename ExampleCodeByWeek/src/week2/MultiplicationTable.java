@@ -1,3 +1,5 @@
+package week2;
+
 // Nested loops
 
 public class MultiplicationTable {

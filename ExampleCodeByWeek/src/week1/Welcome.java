@@ -1,3 +1,5 @@
+package week1;
+
 // Welcome.java: This application program prints Welcome to Java!
 
 public class Welcome {

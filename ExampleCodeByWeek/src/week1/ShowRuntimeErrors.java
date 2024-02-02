@@ -1,3 +1,5 @@
+package week1;
+
 // ShowRuntimeErrors.java: Program contains runtime errors
 
 public class ShowRuntimeErrors {

@@ -1,3 +1,5 @@
+package week2;
+
 // The Monte Carlo Simulation refers to a technique that uses random numbers and probability to solve problems
 
 public class MonteCarloSimulation {

@@ -1,3 +1,5 @@
+package week4;
+
 // This program computes two people's body mass index (BMI) and
 // compares them.  The code uses methods with parameters.
 
