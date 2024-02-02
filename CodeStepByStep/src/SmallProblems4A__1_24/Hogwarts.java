@@ -1,3 +1,5 @@
+package SmallProblems4A__1_24;
+
 /*
 * For the following console program, trace through its execution by hand to write the three lines of output that are produced when it runs:
 *

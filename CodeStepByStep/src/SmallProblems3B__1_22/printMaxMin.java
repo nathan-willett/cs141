@@ -1,3 +1,5 @@
+package SmallProblems3B__1_22;
+
 /*
  * The following code generates four lines of output. What are they?
  */

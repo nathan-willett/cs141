@@ -1,9 +1,9 @@
+package Lab2__1_22;
+
 /*
  * Trace the evaluation of the following expressions, and give their resulting values. Make sure to give 
  * a value of the appropriate type (such as including a .0 at the end of a double).
  */
-
-package Lab2__1_22;
 
  public class expressionsNumbers1 {
     public static void main(String[] args) {

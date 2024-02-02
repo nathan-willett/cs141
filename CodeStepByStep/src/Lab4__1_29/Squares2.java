@@ -1,3 +1,5 @@
+package Lab4__1_29;
+
 /*
  * Modify your Squares program from the previous exercise into a new class Squares2 that draws the following 
  * figures. (Go back to that problem and copy/paste your code here as a starting point.)

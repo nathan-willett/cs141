@@ -1,3 +1,5 @@
+package Lab4__1_29;
+
 public class loopTableSlashesConstant {
     // Class constant for the SIZE
     public static final int SIZE = 6; // you can change this to any size you want

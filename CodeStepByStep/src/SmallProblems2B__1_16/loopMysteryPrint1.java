@@ -1,3 +1,5 @@
+package SmallProblems2B__1_16;
+
 /*
  * 
  * What does the following code print out?
@@ -22,7 +24,6 @@
  *   }
  * 
  */
-package SmallProblems2B;
 
 public class loopMysteryPrint1 {
     public static void main(String[] args) {

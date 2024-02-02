@@ -1,3 +1,5 @@
+package SmallProblems3A__1_22;
+
 /* 
  * 
  * The following program uses nested for loops to produce the following output:

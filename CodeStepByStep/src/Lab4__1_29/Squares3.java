@@ -1,3 +1,5 @@
+package Lab4__1_29;
+
 import graphics.DrawingPanel;
 import java.awt.*;
 

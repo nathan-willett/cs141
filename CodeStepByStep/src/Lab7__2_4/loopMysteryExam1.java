@@ -1,3 +1,5 @@
+package Lab7__2_4;
+
 public class loopMysteryExam1 {
     public static void main(String[] args) {
        // loopMysteryExam1(5, 0);

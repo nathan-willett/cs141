@@ -1,3 +1,5 @@
+package Lab2__1_22;
+
 public class methodTracing1 {
     public static void main(String[] args) {
         message1();

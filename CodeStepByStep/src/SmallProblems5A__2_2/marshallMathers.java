@@ -1,3 +1,5 @@
+package SmallProblems5A__2_2;
+
 public class marshallMathers {
     public static void main(String[] args) {
         // index 0123456789012345678901234

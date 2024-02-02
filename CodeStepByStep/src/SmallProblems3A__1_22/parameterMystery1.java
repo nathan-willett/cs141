@@ -1,3 +1,5 @@
+package SmallProblems3A__1_22;
+
 /*
  * The following console program uses parameters and produces two lines of output. What are they?
  */

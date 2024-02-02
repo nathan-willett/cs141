@@ -1,4 +1,4 @@
-package Lab_2;
+package Lab2__1_22;
 
 public class variables4 {
     

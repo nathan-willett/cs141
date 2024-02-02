@@ -1,3 +1,5 @@
+package Lab6__2_5;
+
 import java.util.Scanner;
 
 public class ScannerLogicError {

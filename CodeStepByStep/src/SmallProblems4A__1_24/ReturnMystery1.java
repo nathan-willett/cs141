@@ -1,3 +1,5 @@
+package SmallProblems4A__1_24;
+
 /*
  * The following console program uses returns and produces three lines of output. What are they?
  */

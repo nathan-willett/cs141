@@ -1,3 +1,5 @@
+package Quiz4__1_31;
+
 import java.util.Scanner;
 import java.util.Random;
 

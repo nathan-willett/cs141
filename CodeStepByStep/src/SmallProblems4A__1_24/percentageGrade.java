@@ -1,3 +1,5 @@
+package SmallProblems4A__1_24;
+
 /*
  * What's wrong with the following code? Modify it to produce the intended output. Make sure to properly utilize if/else/if 
  * statements to avoid redundancy and avoid unnecessary tests. Do not use && or || in your solution.

@@ -1,4 +1,4 @@
-package Small_Problems_1A;
+package SmallProblems1A__1_8;
 
 public class escapeSequence3 {
     public static void main(String[] args) {

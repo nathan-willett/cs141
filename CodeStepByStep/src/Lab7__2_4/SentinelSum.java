@@ -1,3 +1,5 @@
+package Lab7__2_4;
+
 import java.util.Scanner;
 
 public class SentinelSum {

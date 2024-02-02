@@ -1,3 +1,5 @@
+package SmallProblems4A__1_24;
+
 /*
  * Write a console program in a class named RangeOfNumbers that prompts the user to type two integers 
  * and prints the sequence of numbers between the two arguments, separated by commas and spaces. Print 

@@ -1,3 +1,5 @@
+package Lab4__1_29;
+
 public class ParameterMysteryExam2 {
     public static void main(String[] args) {
     String x = "happy";

@@ -1,3 +1,5 @@
+package SmallProblems3A__1_22;
+
 public class expressionStrings1 {
     public static void main(String[] args) {
         System.out.println("hello" + 42);

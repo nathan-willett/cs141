@@ -1,3 +1,5 @@
+package SmallProblems1B__1_8;
+
 // Write a method called drawCar that draws a car on a 200 wide and 100 tall DrawingPanel with a 
 // light gray background. The car body should be a black rectangle 100 wide and 50 tall. 
 // Its upper left corner should be 10 from the left side of the panel and 30 down from the top.

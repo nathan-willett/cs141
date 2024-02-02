@@ -1,3 +1,5 @@
+package SmallProblems4B__1_29;
+
 /*
  * Write a method named stutter that accepts a string parameter returns a new string replacing each of its characters with 
  * two consecutive copies of that character. For example, a call of stutter("hello") would return "hheelllloo".

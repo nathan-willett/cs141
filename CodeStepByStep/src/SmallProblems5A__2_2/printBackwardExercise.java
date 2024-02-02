@@ -1,3 +1,5 @@
+package SmallProblems5A__2_2;
+
 /*
  * Write a method named printBackward that accepts a String as its parameter and prints the characters in the opposite order. For
  * example, a call of printBackward("hello there!"); should print the following output:

@@ -1,3 +1,5 @@
+package SmallProblems3A__1_22;
+
 /*
  * 
  * Complete a for loop to produce the following output:

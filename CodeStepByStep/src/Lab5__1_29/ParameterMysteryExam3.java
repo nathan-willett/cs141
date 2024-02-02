@@ -1,3 +1,5 @@
+package Lab5__1_29;
+
 public class ParameterMysteryExam3 {
     public static void main(String[] args) {
         int a = 5;

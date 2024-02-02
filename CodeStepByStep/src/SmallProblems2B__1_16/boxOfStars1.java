@@ -1,3 +1,5 @@
+package SmallProblems2B__1_16;
+
 /*
  *
  * Write a method named boxOfStars that accepts two integer parameters representing a width and height in characters, 
@@ -13,8 +15,6 @@
  * You may assume that the values passed for the width and height are at least 2.
  * 
  */
-
-package SmallProblems2B;
 
 public class boxOfStars1 {
     public static void main(String[] args) {

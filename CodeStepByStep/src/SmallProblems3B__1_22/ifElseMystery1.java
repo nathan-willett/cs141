@@ -1,3 +1,5 @@
+package SmallProblems3B__1_22;
+
 public class ifElseMystery1 {
     public static void main(String[] args) {
     mystery(0);

@@ -1,3 +1,5 @@
+package SmallProblems5A__2_2;
+
 public class loopMysteryExam3 {
     public static void main(String[] args) {
         loopMysteryExam3M(7, 5);

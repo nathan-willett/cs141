@@ -1,3 +1,5 @@
+package Lab4__1_29;
+
 /*
  * Write a program in a class named Squares that uses the DrawingPanel to draw the following figure:
  * (image)

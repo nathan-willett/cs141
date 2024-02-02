@@ -1,3 +1,5 @@
+package Lab5__1_29;
+
 /*
  * Write a method named computeTax that accepts a salary as a parameter and that returns the amount of tax you would owe if you make that
  * salary. The tax is based on your tax bracket as found from the first two columns below. Once you know which row to use, start with the "flat

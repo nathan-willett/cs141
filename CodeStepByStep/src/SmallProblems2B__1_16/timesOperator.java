@@ -1,3 +1,5 @@
+package SmallProblems2B__1_16;
+
 /*
  *
  * Suppose a real number variable x is defined. Write a single Java statement that stores as a variable y the result of the computation below, 
@@ -6,7 +8,6 @@
  * y = 12.3x4 - 9.1x3 + 19.3x2 - 4.6x + 34.2
  * 
 */
-package SmallProblems2B;
 
 public class timesOperator {
     public static void main(String[] args) {

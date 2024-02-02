@@ -1,3 +1,5 @@
+package SmallProblems4A__1_24;
+
 /*
  * For each call to the following method, indicate what output is produced.
  */

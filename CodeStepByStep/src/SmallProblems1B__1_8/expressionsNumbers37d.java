@@ -1,4 +1,4 @@
-package Small_Problems_1B;
+package SmallProblems1B__1_8;
 
 public class expressionsNumbers37d {
     public static void main(String[] args) {

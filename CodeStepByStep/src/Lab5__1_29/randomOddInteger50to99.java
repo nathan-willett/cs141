@@ -1,3 +1,5 @@
+package Lab5__1_29;
+
 import java.util.Random;
 
 public class randomOddInteger50to99 {

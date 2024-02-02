@@ -1,3 +1,5 @@
+package SmallProblems2B__1_16;
+
 /*
  * 
  * Write nested for loops to produce the following output:
@@ -9,7 +11,6 @@
  *  55555
  * 
  */
-package SmallProblems2B;
 
 public class numberLoops1 {
     public static void main(String[] args) {

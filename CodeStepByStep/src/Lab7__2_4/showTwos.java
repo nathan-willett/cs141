@@ -1,3 +1,5 @@
+package Lab7__2_4;
+
 public class showTwos {
     public static void main(String[] args) {
         showTwos(7);
