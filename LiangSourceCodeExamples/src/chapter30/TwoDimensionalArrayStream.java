@@ -1,4 +1,3 @@
-package chapter30;
 
 import java.util.IntSummaryStatistics;
 import java.util.stream.IntStream;

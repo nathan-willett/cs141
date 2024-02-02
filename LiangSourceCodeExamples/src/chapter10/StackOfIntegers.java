@@ -1,4 +1,3 @@
-package chapter10;
 
 public class StackOfIntegers {
   private int[] elements;

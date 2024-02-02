@@ -1,4 +1,3 @@
-package chapter7;
 
 public class DeckOfCards {
   public static void main(String[] args) {

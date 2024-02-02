@@ -1,4 +1,3 @@
-package chapter24;
 
 public class TestMyLinkedList {
   /** Main method */

@@ -1,4 +1,3 @@
-package chapter23;
 
 public class MergeSort {
   /** The method for sorting the numbers */

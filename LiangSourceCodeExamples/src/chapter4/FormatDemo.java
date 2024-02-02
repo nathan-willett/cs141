@@ -1,4 +1,3 @@
-package chapter4;
 
 public class FormatDemo { 
   public static void main(String[] args) { 

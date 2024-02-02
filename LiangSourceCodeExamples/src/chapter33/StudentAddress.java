@@ -1,4 +1,3 @@
-package chapter33;
 
 public class StudentAddress implements java.io.Serializable {
   private String name;

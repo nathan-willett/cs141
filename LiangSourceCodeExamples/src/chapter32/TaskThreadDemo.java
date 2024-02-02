@@ -1,4 +1,3 @@
-package chapter32;
 
 public class TaskThreadDemo {
   public static void main(String[] args) {

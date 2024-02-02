@@ -1,4 +1,3 @@
-package chapter10;
 
 import java.math.*;
 

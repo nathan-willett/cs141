@@ -1,4 +1,3 @@
-package chapter7;
 
 public class InsertionSort {
   /** The method for sorting the numbers */

@@ -1,4 +1,3 @@
-package chapter19;
 
 public class IntegerMatrix extends GenericMatrix<Integer> {
   @Override /** Add two integers */

@@ -1,4 +1,3 @@
-package chapter15;
 
 import LiangSourceCodeExamples.chapter14.ClockPane;
 import javafx.application.Application;

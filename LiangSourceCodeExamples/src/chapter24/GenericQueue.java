@@ -1,4 +1,3 @@
-package chapter24;
 
 public class GenericQueue<E> {
   private java.util.LinkedList<E> list 

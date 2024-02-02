@@ -1,4 +1,3 @@
-package chapter29;
 
 import LiangSourceCodeExamples.chapter28.Edge;
 

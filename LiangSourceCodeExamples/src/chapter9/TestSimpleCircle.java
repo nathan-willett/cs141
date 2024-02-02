@@ -1,4 +1,3 @@
-package chapter9;
 
 public class TestSimpleCircle {
   /** Main method */

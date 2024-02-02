@@ -1,4 +1,3 @@
-package chapter6;
 
 public class TestMethodOverloading {
   /** Main method */

@@ -1,4 +1,3 @@
-package chapter15;
 
 import javafx.animation.PathTransition;
 import javafx.application.Application;

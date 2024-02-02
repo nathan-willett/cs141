@@ -1,4 +1,3 @@
-package chapter20;
 
 public class TestQueue {
   public static void main(String[] args) {

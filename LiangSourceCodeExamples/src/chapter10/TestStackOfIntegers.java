@@ -1,4 +1,3 @@
-package chapter10;
 
 public class TestStackOfIntegers {
   public static void main(String[] args) {

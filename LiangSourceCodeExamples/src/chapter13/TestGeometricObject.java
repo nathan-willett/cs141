@@ -1,4 +1,3 @@
-package chapter13;
 
 public class TestGeometricObject {
   /** Main method */

@@ -1,4 +1,3 @@
-package chapter28;
 
 import java.util.Scanner;
 

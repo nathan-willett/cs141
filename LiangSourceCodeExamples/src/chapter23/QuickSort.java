@@ -1,4 +1,3 @@
-package chapter23;
 
 public class QuickSort {
   public static void quickSort(int[] list) {

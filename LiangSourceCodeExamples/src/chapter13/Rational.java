@@ -1,4 +1,3 @@
-package chapter13;
 
 public class Rational extends Number implements Comparable<Rational> {
   // Data fields for numerator and denominator

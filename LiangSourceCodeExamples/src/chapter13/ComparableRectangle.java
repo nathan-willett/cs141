@@ -1,4 +1,3 @@
-package chapter13;
 
 public class ComparableRectangle extends Rectangle 
     implements Comparable<ComparableRectangle> {

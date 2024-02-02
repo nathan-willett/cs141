@@ -1,4 +1,3 @@
-package chapter9;
 
 public class TestCircleWithStaticMembers {
   /** Main method */

@@ -1,4 +1,3 @@
-package chapter35;
 
 import java.sql.SQLException;
 import javax.sql.RowSet;

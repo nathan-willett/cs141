@@ -29,7 +29,6 @@
  * See JavaDoc comments below for more information.
  */
 
-package graphics;
 
 import java.awt.FontMetrics;
 import java.awt.Rectangle;

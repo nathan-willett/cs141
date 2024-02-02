@@ -1,4 +1,3 @@
-package chapter9;
 
 public class CircleWithPrivateDataFields {
   /** The radius of the circle */

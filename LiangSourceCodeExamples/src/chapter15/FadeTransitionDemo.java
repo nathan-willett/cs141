@@ -1,4 +1,3 @@
-package chapter15;
 
 import javafx.animation.FadeTransition;
 import javafx.animation.Timeline;

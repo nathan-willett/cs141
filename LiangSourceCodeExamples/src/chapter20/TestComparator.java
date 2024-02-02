@@ -1,4 +1,3 @@
-package chapter20;
 
 import chapter13.GeometricObject;
 import chapter13.Rectangle;

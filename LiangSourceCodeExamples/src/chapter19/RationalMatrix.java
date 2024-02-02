@@ -1,4 +1,3 @@
-package chapter19;
 
 import LiangSourceCodeExamples.chapter13.Rational;
 

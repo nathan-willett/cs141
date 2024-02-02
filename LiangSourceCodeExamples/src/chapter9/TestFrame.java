@@ -1,4 +1,3 @@
-package chapter9;
 
 import javax.swing.JFrame;
 

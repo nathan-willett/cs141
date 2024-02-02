@@ -1,4 +1,3 @@
-package chapter6;
 
 public class Increment {
   public static void main(String[] args) {

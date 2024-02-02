@@ -1,4 +1,3 @@
-package chapter5;
 
 public class MultiplicationTable {
   /** Main method */

@@ -1,4 +1,3 @@
-package chapter33;
 
 public interface TicTacToeConstants {
   public static int PLAYER1 = 1; // Indicate player 1

@@ -1,4 +1,3 @@
-package chapter7;
 
 public class TestPassArray {
   /** Main method */

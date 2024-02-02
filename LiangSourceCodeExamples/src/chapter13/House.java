@@ -1,4 +1,3 @@
-package chapter13;
 
 public class House implements Cloneable, Comparable<House> {
   private int id;

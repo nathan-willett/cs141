@@ -1,4 +1,3 @@
-package chapter27;
 
 public class TestMyHashSet {
   public static void main(String[] args) {

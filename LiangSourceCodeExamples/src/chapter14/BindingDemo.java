@@ -1,4 +1,3 @@
-package chapter14;
 
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.SimpleDoubleProperty;

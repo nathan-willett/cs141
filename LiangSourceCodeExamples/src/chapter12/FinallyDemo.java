@@ -1,4 +1,3 @@
-package chapter12;
 
 public class FinallyDemo {
   public static void main(String[] args) {

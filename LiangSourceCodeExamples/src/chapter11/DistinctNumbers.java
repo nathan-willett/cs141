@@ -1,4 +1,3 @@
-package chapter11;
 
 import java.util.ArrayList;
 import java.util.Scanner;

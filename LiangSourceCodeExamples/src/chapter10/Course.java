@@ -1,4 +1,3 @@
-package chapter10;
 
 public class Course {
   private String courseName;

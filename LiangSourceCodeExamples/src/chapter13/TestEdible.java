@@ -1,4 +1,3 @@
-package chapter13;
 
 public class TestEdible {
   public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package chapter6;
 
 public class RandomCharacter {
   /** Generate a random character between ch1 and ch2 */

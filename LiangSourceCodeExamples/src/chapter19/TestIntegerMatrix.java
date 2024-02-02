@@ -1,4 +1,3 @@
-package chapter19;
 
 public class TestIntegerMatrix {
   public static void main(String[] args) {

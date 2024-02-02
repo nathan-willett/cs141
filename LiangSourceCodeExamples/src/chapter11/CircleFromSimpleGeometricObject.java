@@ -1,4 +1,3 @@
-package chapter11;
 
 public class CircleFromSimpleGeometricObject 
     extends SimpleGeometricObject {
