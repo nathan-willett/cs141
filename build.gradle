@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+
+subprojects {
+    version = '1.0'
+
+    dependencies {
+        testImplementation 'junit:junit:4.13.2'
+    }
+
+    // Example of configuring Java for all subprojects
+    apply plugin: 'java'
+
+    sourceSets {
+        main {
+            java {
+                srcDirs = ['src']
+            }
+        }
+    }
+}

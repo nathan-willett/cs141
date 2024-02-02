@@ -3,7 +3,9 @@
  * a value of the appropriate type (such as including a .0 at the end of a double).
  */
 
-public class expressionsNumbers1 {
+package Lab2__1_22;
+
+ public class expressionsNumbers1 {
     public static void main(String[] args) {
         System.out.println(1 + 2 * 3 + 7 * 2 % 5);
         System.out.println(1 + 2 * 3);

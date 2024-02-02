@@ -3,6 +3,6 @@ public class cat {
         System.out.println("/\\   /\\" + "\n" +
             " .   ." + "\n" +
             "   -   " + "\n" +
-            " \"\" \"\"");
+            " \\\\" + " \\\\"); // Corrected the escape sequences here
     }
 }
