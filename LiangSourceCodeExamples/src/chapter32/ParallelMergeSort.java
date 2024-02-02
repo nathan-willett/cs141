@@ -3,7 +3,7 @@ package chapter32;
 
 import java.util.concurrent.RecursiveAction;
 import java.util.concurrent.ForkJoinPool;
-import LiangSourceCodeExamples.chapter23.MergeSort;
+import chapter23.MergeSort;
 
 public class ParallelMergeSort {
   public static void main(String[] args) {

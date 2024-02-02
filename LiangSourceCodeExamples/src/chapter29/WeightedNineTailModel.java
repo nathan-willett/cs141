@@ -1,8 +1,8 @@
 package chapter29;
 
 
-import LiangSourceCodeExamples.chapter28.NineTailModel;
-import LiangSourceCodeExamples.chapter28.Graph;
+import chapter28.NineTailModel;
+import chapter28.Graph;
 import java.util.*;
 
 public class WeightedNineTailModel extends NineTailModel {

@@ -1,7 +1,7 @@
 package chapter25;
 
 
-import LiangSourceCodeExamples.chapter23.Heap;
+import chapter23.Heap;
 import java.util.Scanner;
 
 public class HuffmanCode {

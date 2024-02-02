@@ -1,6 +1,5 @@
 package chapter35;
 
-
 import java.sql.*;
 import javax.sql.RowSet;
 import javax.sql.rowset.JdbcRowSetImpl;

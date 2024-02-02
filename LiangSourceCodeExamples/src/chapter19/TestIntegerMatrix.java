@@ -1,6 +1,5 @@
 package chapter19;
 
-
 public class TestIntegerMatrix {
   public static void main(String[] args) {
     // Create Integer arrays m1, m2

@@ -1,7 +1,7 @@
 package chapter29;
 
 
-import LiangSourceCodeExamples.chapter28.NineTailModel;
+import chapter28.NineTailModel;
 import java.util.Scanner;
 
 public class WeightedNineTail {

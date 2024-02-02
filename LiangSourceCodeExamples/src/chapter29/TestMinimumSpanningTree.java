@@ -1,6 +1,5 @@
 package chapter29;
 
-
 public class TestMinimumSpanningTree {
   public static void main(String[] args) {
     String[] vertices = {"Seattle", "San Francisco", "Los Angeles",

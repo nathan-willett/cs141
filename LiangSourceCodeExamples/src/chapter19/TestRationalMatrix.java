@@ -1,7 +1,6 @@
 package chapter19;
 
-
-import LiangSourceCodeExamples.chapter13.Rational;
+import chapter13.Rational;
 
 public class TestRationalMatrix {
   public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package chapter15;
 
 
-import LiangSourceCodeExamples.chapter14.ClockPane;
+import chapter14.ClockPane;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.animation.KeyFrame;

@@ -13,6 +13,7 @@ subprojects {
 
     dependencies {
         //testImplementation 'junit:junit:4.13.2'
+        compileOnly 'javax:javaee-api:8.0'
     }
 
     // Example of configuring Java for all subprojects

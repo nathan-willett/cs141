@@ -1,6 +1,5 @@
 package chapter19;
 
-
 public class SuperWildCardDemo {
   public static void main(String[] args) {
     GenericStack<String> stack1 = new GenericStack<String>();
