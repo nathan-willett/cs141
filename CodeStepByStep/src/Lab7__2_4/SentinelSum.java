@@ -6,8 +6,8 @@ public class SentinelSum {
         System.out.print("Enter numbers (0 to stop): ");
         
         //int 
-        while(console != -1) {
+        //while(console != -1) {
             
-        }
+        
     }
 }

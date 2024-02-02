@@ -3,10 +3,14 @@
  * Random rand = new Random();
  * int n = ???;
  */
+// Remove the incomplete import statement
+// import 
+
+import java.util.Random;
 
 public class randomInteger0to10 {
     public static void main(String[] args) {
         Random rand = new Random();
-    int n = rand.nextInt(11);
+        int n = rand.nextInt(11);
     }
 }

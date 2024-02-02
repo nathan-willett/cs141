@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Problem6 {
+public class q4Problem6 {
 
     public static void ProblemSolver(Scanner console, int count) {
         Random rand = new Random();
