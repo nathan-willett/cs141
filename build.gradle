@@ -17,9 +17,6 @@ subprojects {
         implementation 'javax.sql:rowset:1.1'
     }
 
-    // Example of configuring Java for all subprojects
-    apply plugin: 'java'
-
     sourceSets {
         main {
             java {
