@@ -1,3 +1,5 @@
+package chapter6;
+
 
 public class TestRandomCharacter {
   /** Main method */

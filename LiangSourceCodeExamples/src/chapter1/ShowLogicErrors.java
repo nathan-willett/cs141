@@ -1,3 +1,5 @@
+package chapter1;
+
 
 public class ShowLogicErrors {
   public static void main(String[] args) {

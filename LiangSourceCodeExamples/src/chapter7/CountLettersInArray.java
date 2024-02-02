@@ -1,3 +1,5 @@
+package chapter7;
+
 
 import chapter6.RandomCharacter;
 

@@ -1,3 +1,5 @@
+package chapter9;
+
 
 public class TotalArea {
   /** Main method */

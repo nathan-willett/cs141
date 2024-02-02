@@ -1,3 +1,5 @@
+package chapter1;
+
 
 public class WelcomeWithThreeMessages { 
   public static void main(String[] args) { 

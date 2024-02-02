@@ -1,3 +1,5 @@
+package chapter9;
+
 
 public class TestCircleWithPrivateDataFields {
   /** Main method */

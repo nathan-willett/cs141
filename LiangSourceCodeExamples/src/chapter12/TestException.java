@@ -1,3 +1,5 @@
+package chapter12;
+
 
 public class TestException  {
   public static void main(String[] args) {

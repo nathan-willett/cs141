@@ -1,3 +1,5 @@
+package chapter10;
+
 
 public class Loan {
   private double annualInterestRate;

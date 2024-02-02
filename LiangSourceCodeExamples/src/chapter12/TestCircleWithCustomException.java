@@ -1,3 +1,5 @@
+package chapter12;
+
 
 public class TestCircleWithCustomException {
   public static void main(String[] args) {

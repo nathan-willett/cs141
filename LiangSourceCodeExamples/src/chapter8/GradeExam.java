@@ -1,3 +1,5 @@
+package chapter8;
+
 
 public class GradeExam {
   /** Main method */

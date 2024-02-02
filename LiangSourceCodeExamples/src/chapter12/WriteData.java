@@ -1,3 +1,5 @@
+package chapter12;
+
 
 public class WriteData {
   public static void main(String[] args) throws Exception {

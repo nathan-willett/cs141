@@ -1,3 +1,5 @@
+package chapter7;
+
 
 public class BinarySearch {
   /** Use binary search to find the key in the list */

@@ -1,3 +1,5 @@
+package chapter24;
+
 
 import LiangSourceCodeExamples.chapter19.GenericStack;
 

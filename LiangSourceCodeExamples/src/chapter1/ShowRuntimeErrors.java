@@ -1,3 +1,5 @@
+package chapter1;
+
 // ShowRuntimeErrors.java: Program contains runtime errors
 
 

@@ -1,3 +1,5 @@
+package chapter11;
+
 
 public class RectangleFromSimpleGeometricObject 
     extends SimpleGeometricObject {

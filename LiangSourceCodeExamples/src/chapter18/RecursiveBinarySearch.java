@@ -1,3 +1,5 @@
+package chapter18;
+
 
 public class RecursiveBinarySearch {
   public static int recursiveBinarySearch(int[] list, int key) {

@@ -1,3 +1,5 @@
+package chapter11;
+
 
 public class SimpleGeometricObject {
   private String color = "white";

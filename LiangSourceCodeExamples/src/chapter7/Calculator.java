@@ -1,3 +1,5 @@
+package chapter7;
+
 
 public class Calculator {
   /** Main method */

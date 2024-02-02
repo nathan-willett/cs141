@@ -1,3 +1,5 @@
+package chapter9;
+
 
 import java.util.Scanner;
 import javafx.geometry.Point2D;

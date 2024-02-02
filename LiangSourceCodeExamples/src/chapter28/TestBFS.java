@@ -1,3 +1,5 @@
+package chapter28;
+
 
 public class TestBFS {
   public static void main(String[] args) {

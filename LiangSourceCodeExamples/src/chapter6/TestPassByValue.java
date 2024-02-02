@@ -1,3 +1,5 @@
+package chapter6;
+
 
 public class TestPassByValue {
   /** Main method */

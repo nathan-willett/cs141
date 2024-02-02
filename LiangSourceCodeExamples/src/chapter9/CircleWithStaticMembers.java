@@ -1,3 +1,5 @@
+package chapter9;
+
 
 public class CircleWithStaticMembers {
   /** The radius of the circle */

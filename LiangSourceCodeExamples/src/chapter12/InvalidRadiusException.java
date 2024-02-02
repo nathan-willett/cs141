@@ -1,3 +1,5 @@
+package chapter12;
+
 
 public class InvalidRadiusException extends Exception {
   private double radius;
