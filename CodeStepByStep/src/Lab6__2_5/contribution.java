@@ -1,13 +1,12 @@
 import java.util.Scanner;
 
-// move print messages outside of the if statements. change to if else. 
-/*
- * if (times == 1) {
- *     count1++;
- * } else if times == 2) {}
- */
-
 public class contribution {
+    static Scanner console = new Scanner(System.in);
+    static int sum = 0;
+    static int count1 = 0;
+    static int count2 = 0;
+    static int total = 0;
+
     public static void main(String[] args) {
         System.out.print("Is your money multiplied 1 or 2 times? ");
         int times = console.nextInt();
