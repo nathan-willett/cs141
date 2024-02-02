@@ -123,13 +123,11 @@ public class CopyFileToTable extends Application {
     catch (FileNotFoundException ex) {
       System.out.println("File not found: " + tfFilename.getText());
     }
-    catch (IOException ex) {
-      ex.printStackTrace();
-    }
     finally {
       if (input != null) input.close();
     }
   }
+
 
   private void copyFile() throws Exception {
     // Load the JDBC driver

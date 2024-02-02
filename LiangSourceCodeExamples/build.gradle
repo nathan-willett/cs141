@@ -12,7 +12,7 @@ repositories {
 dependencies {
     // Example: test framework dependency
     testImplementation 'junit:junit:4.13.2'
-    implementation 'javax.sql:rowset:1.1'
+    // implementation 'javax.sql:rowset:1.1'
 
     // Include the local JAR file
     implementation fileTree(dir: 'lib', include: ['DrawingPanel.jar'])

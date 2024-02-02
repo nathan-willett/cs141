@@ -16,7 +16,7 @@ subprojects {
     dependencies {
         //testImplementation 'junit:junit:4.13.2'
         compileOnly 'javax:javaee-api:8.0'
-        implementation 'javax.sql:rowset:1.1'
+        //implementation 'javax.sql:rowset:1.1'
     }
 
     sourceSets {

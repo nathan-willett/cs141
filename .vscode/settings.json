@@ -4,5 +4,6 @@
         "ExampleCodeByWeek/src",
         "CodeStepByStep/src",
         "LiangSourceCodeExamples/src"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
