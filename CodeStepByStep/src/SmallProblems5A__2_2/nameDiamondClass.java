@@ -21,9 +21,23 @@ public class nameDiamondClass {
     }
 
     public static void nameDiamond(String name) {
-        
-        for (int l = 0; l < name.length(); l++) {
-            System.out.println(name.charAt(l));
+        // First part: print the name in an increasing manner
+        for (int i = 0; i < name.length(); i++) {
+            for (int j = 0; j <= i; j++) {
+                System.out.print(name.charAt(j));
+            }
+            System.out.println();
+        }
+
+        // Second part: print the name in a decreasing manner, without the first character each time
+        for (int i = 1; i < name.length(); i++) {
+            for (int j = 0; j < i; j++) {
+                System.out.print(" "); // Print leading spaces
+            }
+            for (int j = i; j < name.length(); j++) {
+                System.out.print(name.charAt(j));
+            }
+            System.out.println();
         }
     }
 }
