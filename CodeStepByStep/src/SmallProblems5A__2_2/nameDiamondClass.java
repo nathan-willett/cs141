@@ -23,7 +23,7 @@ public class nameDiamondClass {
     public static void nameDiamond(String name) {
         
         for (int l = 0; l < name.length(); l++) {
-            System.out.pringln(name.charAt(l));
+            System.out.println(name.charAt(l));
         }
     }
 }
