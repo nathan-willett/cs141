@@ -13,20 +13,20 @@ public class contribution {
         System.out.print("Is your money multiplied 1 or 2 times? ");
         int times = console.nextInt();
 
+        System.out.print("And how much are you contributing? ");
+        int donation = console.nextInt();
+
         if (times == 1) {
-            System.out.print("And how much are you contributing? ");
-            int donation = console.nextInt();
             sum = sum + donation;
             count1++;
             total = total + donation;
-        }
-        if (times == 2) {
-            System.out.print("And how much are you contributing? ");
-            int donation = console.nextInt();
+        } else {
             sum = sum + 2 * donation;
             count2++;
             total = total + donation;
         }
-        console.close();
+        
+        System.out.println("Total contribution: " + total);
+        System.out.flush();
     }
 }
