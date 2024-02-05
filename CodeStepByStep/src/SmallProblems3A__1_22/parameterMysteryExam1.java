@@ -1,8 +1,8 @@
-package SmallProblems3A__1_22;
-
 /*
  * The following console program uses parameters and produces five lines of output. What are they?
  */
+
+package SmallProblems3A__1_22;
 
 public class parameterMysteryExam1 {
     public static void main(String[] args) {

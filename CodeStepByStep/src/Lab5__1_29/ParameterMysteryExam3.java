@@ -1,3 +1,7 @@
+/*
+ * The following console program uses parameters and produces four lines of output. What are they?
+ */
+
 package Lab5__1_29;
 
 public class ParameterMysteryExam3 {

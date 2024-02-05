@@ -1,6 +1,5 @@
 /*
- * For each call of the method below, write the output that is printed as it would 
- * appear on the console.
+ * For each call of the method below, write the output that is printed as it would appear on the console.
  * 
  * loopMysteryExam5(12, 4);	
  * loopMysteryExam5(14, 2);	
