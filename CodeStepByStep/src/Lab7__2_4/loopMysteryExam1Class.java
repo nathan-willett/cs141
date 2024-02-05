@@ -1,3 +1,7 @@
+/*
+ * For each call of the method below, write the output that is printed and the value that is returned:
+ */
+
 package Lab7__2_4;
 
 public class loopMysteryExam1Class {
