@@ -1,6 +1,5 @@
 package chapter6;
 
-
 import java.util.Scanner;
 
 public class Hex2Dec {
@@ -15,6 +14,8 @@ public class Hex2Dec {
 
     System.out.println("The decimal value for hex number "
       + hex + " is " + hexToDecimal(hex.toUpperCase()));
+
+    input.close();
   }
 
   public static int hexToDecimal(String hex) {
