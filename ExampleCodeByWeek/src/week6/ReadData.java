@@ -1,9 +1,11 @@
+package week6;
+
 import java.util.Scanner; 
 
 public class ReadData {
   public static void main(String[] args) throws Exception {
     // Create a File instance
-    java.io.File file = new java.io.File("scores.txt");
+    java.io.File file = new java.io.File("C:\\GitHub\\cs141\\ExampleCodeByWeek\\src\\week6\\scores.txt");
 
     // Create a Scanner for the file
     Scanner input = new Scanner(file);

@@ -1,4 +1,5 @@
-// ShowRuntimeErrorsWithIf.java
+package week6;
+
 import java.util.Scanner; 
 
 public class ShowRuntimeErrorsWithIf {

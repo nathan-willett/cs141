@@ -1,6 +1,8 @@
+package week6;
+
 public class WriteData {
   public static void main(String[] args) throws java.io.IOException {
-    java.io.File file = new java.io.File("c:\\CS141\\Week 6\\Wednesday\\scores.txt");
+    java.io.File file = new java.io.File("C:\\GitHub\\cs141\\ExampleCodeByWeek\\src\\week6\\scores.txt");
     if (file.exists()) {
       System.out.println("File already exists");
       System.exit(1);

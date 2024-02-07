@@ -1,3 +1,5 @@
+package week6;
+
 public class WriteDataWithAutoClose {
   public static void main(String[] args) throws Exception {
     java.io.File file = new java.io.File("c:\\CS141\\Week 6\\Wednesday\\scores.txt");
