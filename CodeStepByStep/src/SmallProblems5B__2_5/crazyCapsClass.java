@@ -11,21 +11,21 @@ import java.util.Scanner;
 public class crazyCapsClass {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Please enter a string.");       // prompt the user
-        String a = input.nextLine();        // store the input as string 'a'
+        System.out.println("Please enter a string.");           // prompt the user
+        String a = input.nextLine();                              // store the input as string 'a'
         System.out.println(crazyCaps(a));
         input.close();
     }
 
     public static String crazyCaps(String a) {
-        String output = "";         // to store the modified string
+        String output = "";                                        // to store the modified string
         int length = a.length();
         
         for (int i = 0; i < length; i++) {
             char currentChar = a.charAt(i);
-            if (i % 2 == 0) {          // even char index
+            if (i % 2 == 0) {                                      // even char index
                 output += Character.toLowerCase(currentChar);
-            } else {        // odd index
+            } else {                                               // odd index
                 output += Character.toUpperCase(currentChar);
             }
         }
