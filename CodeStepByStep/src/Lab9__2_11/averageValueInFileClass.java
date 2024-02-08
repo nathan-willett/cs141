@@ -25,7 +25,7 @@ import java.io.File;
 
 public class averageValueInFileClass {
     public static void main(String[] args) {
-        java.io.File file = new java.io.File(" ")
+        java.io.File file = new java.io.File(" ");
     }
 
 
