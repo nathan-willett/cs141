@@ -34,20 +34,20 @@
  * such as ints or strings as you like. Be mindful of the differences between Java types String and char when solving this problem.
  */
 
-package SmallProblems5B__2_5;
+// package SmallProblems5B__2_5;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class startEndLetterClass {
-    public static void main(String[] args) {
-        Scanner console = new Scanner(System.in);
-        System.out.println("Please enter a character."); // prompt the user for a char value
-        String a = console.nextLine(); // store the input as string 'a'
-        startEndLetter('t');
-        console.close();
-    }
+// public class startEndLetterClass {
+//     public static void main(String[] args) {
+//         Scanner console = new Scanner(System.in);
+//         System.out.println("Please enter a character."); // prompt the user for a char value
+//         String a = console.nextLine(); // store the input as string 'a'
+//         startEndLetter('t');
+//         console.close();
+//     }
 
-    public static String startEndLetter(char x) {
+//     public static String startEndLetter(char x) {
         
-    }
-}
+//     }
+// }
