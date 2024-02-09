@@ -1,6 +1,5 @@
 package chapter2;
 
-
 import java.util.Scanner;
 
 public class DisplayTime {
@@ -13,6 +12,7 @@ public class DisplayTime {
     int minutes = seconds / 60; // Find minutes in seconds
     int remainingSeconds = seconds % 60; // Seconds remaining
     System.out.println(seconds + " seconds is " + minutes + 
-      " minutes and " + remainingSeconds + " seconds");  
+      " minutes and " + remainingSeconds + " seconds");
+    input.close();
   }
 }
