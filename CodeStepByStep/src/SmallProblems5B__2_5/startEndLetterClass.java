@@ -41,16 +41,46 @@ import java.util.Scanner;
 
 public class startEndLetterClass {
     public static void main(String[] args) {
-        Scanner console = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Please enter a character."); // prompt the user for a char value
-        String a = console.nextLine(); // store the input as string 'a'
-        startEndLetter('t');
-        console.close();
+        String charInput = input.nextLine();
+        
+        // Ensure that char length is greater than 0, convert to lower case for case insensitivity
+        char x = charInput.length() > 0 ? charInput.toLowerCase().charAt(0) : 'a'; 
+
+        startEndLetter(x); // call the method
+        input.close();
     }
 
-    public static String startEndLetter(char x) {
-        while(input.next()) {
-            
+    public static void startEndLetter(char x) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Looking for two \"" + x + "\" words in a row.");
+        String lastWord = "";
+        boolean foundOne = false;
+
+        while(true) {
+            System.out.print("Type a word: ");
+            String word = input.next();
+
+            // Convert to lowercase to make case-insensitive comparison
+            String wordLowerCase = word.toLowerCase();
+
+            // Check if String 'word' starts and ends with char 'x'
+            if (wordLowerCase.startsWith(String.valueOf(x)) && wordLowerCase.endsWith(String.valueOf(x))) {
+                
+                // if foundOne = false, value will become true in the else condition (ln 76)
+                // if true, print the following message and then exit the program
+                if (foundOne) {
+                    System.out.println("\"" + x + "\" is for \"" + word + "\"");
+                    break;
+                } else {
+                    foundOne = true; // foundOne becomes true as it meets the first condition in the sequence
+                    lastWord = word; // Update lastWord to current word
+                }
+            } else {
+                foundOne = false; // Reset if the current word doesn't meet the condition
+            }
         }
+        input.close();
     }
 }
