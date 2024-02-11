@@ -20,17 +20,29 @@
  * Constraints: Your solution should read the file only once, not make multiple passes over the file data.
  */
 
- package SmallProblems6A__2_11;
+package SmallProblems6A__2_11;
+
+import java.util.Scanner;
+import java.io.File;
 
 public class coinFlipClass {
     public static void main(String[] args) {
-        String fileName = "coinInput.txt";
-
+        String fileName = "coinInput.txt"; // store the file name
         coinFlip(fileName);
     }
 
     public static void coinFlip(String fileName) {
-        java.io.File file = new java.io.File(fileName);
+        try {
+            File coinInputFile = new File(fileName); // create a file instance to reference the file
+            Scanner scanner = new Scanner(fileName); // create a scanner instance to read from the file
+            
+            while (scanner.hasNext()) {
+                String in = scanner.next();
+                char firstChar = in.charAt(0);
+                
+        }
         
+        
+        }
     }
 }
