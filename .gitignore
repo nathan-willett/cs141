@@ -52,11 +52,3 @@ Archive/
 # Documentation should not be ignored
 !**/README.md
 '''
-
-# Write the updated content back to the .gitignore file
-with open(file_path, 'w') as file:
-    file.write(updated_gitignore_content)
-
-# Confirm the update
-"Your .gitignore file has been updated."
-
