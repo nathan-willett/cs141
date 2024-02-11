@@ -24,12 +24,13 @@
 
 public class coinFlipClass {
     public static void main(String[] args) {
-        String fileName = " ";
+        String fileName = "coinInput.txt";
 
         coinFlip(fileName);
     }
 
     public static void coinFlip(String fileName) {
-
+        java.io.File file = new java.io.File(fileName);
+        
     }
 }

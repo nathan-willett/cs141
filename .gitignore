@@ -1,0 +1,21 @@
+# Compiled Java classes
+*.class
+
+# Gradle files
+.gradle/
+!gradle-wrapper.jar
+
+# Log files
+*.log
+
+# Directory for IDE - specific settings
+.idea/
+*.iml
+
+# Mac OS folder attributes
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
