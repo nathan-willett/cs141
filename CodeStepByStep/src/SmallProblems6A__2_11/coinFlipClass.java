@@ -20,16 +20,55 @@
  * Constraints: Your solution should read the file only once, not make multiple passes over the file data.
  */
 
- package SmallProblems6A__2_11;
+package SmallProblems6A__2_11;
+
+import java.util.Scanner;
+import java.io.File;
+import java.io.FileNotFoundException;
 
 public class coinFlipClass {
     public static void main(String[] args) {
-        String fileName = " ";
-
+        String fileName = "CodeStepByStep\\src\\SmallProblems6A__2_11\\coinInput.txt"; // store the file name
         coinFlip(fileName);
     }
 
     public static void coinFlip(String fileName) {
+        try {
+            File coinInputFile = new File(fileName); // create a file instance to reference the file
+            Scanner scanner = new Scanner(coinInputFile); // create a scanner instance to read from the file
 
+            int totalFlips = 0;
+            int totalHeads = 0;
+            int totalTails = 0;
+            
+            while (scanner.hasNext()) {
+                String result = scanner.next().toLowerCase(); // convert all to lower case to make input case insensitive
+                char firstChar = result.charAt(0);
+
+                if (firstChar == 'h') {
+                    totalHeads++;
+                } else if (firstChar == 't') {
+                    totalTails++;
+                } else {
+                    throw new RuntimeException("Invalid input: Neither 'h' nor 't' found at the beginning of a token.");
+                }
+                totalFlips++; // increment flip count by one
+            }
+            // calculate percentage of flips that landed heads
+            double percentageHeads = (double) totalHeads / totalFlips * 100;
+
+            // Output results
+            System.out.printf("%d heads (%d%%)\n", totalHeads, Math.round(percentageHeads));
+            if (percentageHeads >= 50) {
+                System.out.println("You win!");
+            } else {
+                System.out.println("You lose!");
+            }
+
+            scanner.close(); // Close the scanner to release system resources
+
+        } catch (Exception e) {
+            System.out.println("Error: " + e.getMessage());
+        }
     }
 }

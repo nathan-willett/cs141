@@ -19,14 +19,45 @@
  * Constraints: Your solution should read the file only once, not make multiple passes over the file data.
  */
 
-package Lab9__2_11;
+ package Lab9__2_11;
 
-import java.io.File;
+ import java.util.Scanner;
+ import java.io.File;
+ import java.io.FileNotFoundException;
+ 
+ public class averageValueInFileClass {
+     public static void main(String[] args) {
+         // Capture the result of the method call and print it
+         double result = averageValueInFile("input.txt");
+         System.out.println(result);
+     }
+ 
+     public static double averageValueInFile(String fileName) {
+        File file = new File(fileName);
+        Scanner scanner = null;
+        double sum = 0;
+        int count = 0;
 
-public class averageValueInFileClass {
-    public static void main(String[] args) {
-        java.io.File file = new java.io.File(" ");
+        try {
+            scanner = new Scanner(file);
+            while (scanner.hasNextDouble()) {
+                sum += scanner.nextDouble();
+                count++;
+            }
+        } catch (FileNotFoundException e) {
+            System.out.println("Error: " + e.getMessage());
+            return 0.0; // Return 0.0 in case of FileNotFoundException
+        } finally {
+            if (scanner != null) {
+                scanner.close(); // Ensure the scanner is closed to avoid resource leaks
+            }
+        }
+        
+        // Calculate and return the average
+        if (count > 0) {
+            return sum / count;
+        } else {
+            return 0.0; // Return 0.0 if no numbers were found
+        }
     }
-
-
-}
+ }

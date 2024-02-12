@@ -1,0 +1,15 @@
+/*
+ * Write a method called swap that accepts an array of integers and two indexes as parameters and swaps the elements at those indexes.
+ * 
+ * int[] a1 = {12, 34, 56};
+ * swap(a1, 1, 2);
+ * System.out.println(Arrays.toString(a1));
+ * 
+ * The above code should output [12, 56, 34].
+ */
+
+package SmallProblems6B__2_14;
+
+public class swapClass {
+    
+}
