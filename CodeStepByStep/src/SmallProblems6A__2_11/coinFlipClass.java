@@ -66,6 +66,7 @@ public class coinFlipClass {
             }
 
             scanner.close(); // Close the scanner to release system resources
+
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
         }
