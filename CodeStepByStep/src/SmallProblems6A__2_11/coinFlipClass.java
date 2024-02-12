@@ -24,6 +24,7 @@ package SmallProblems6A__2_11;
 
 import java.util.Scanner;
 import java.io.File;
+import java.io.FileNotFoundException;
 
 public class coinFlipClass {
     public static void main(String[] args) {
@@ -35,13 +36,22 @@ public class coinFlipClass {
         try {
             File coinInputFile = new File(fileName); // create a file instance to reference the file
             Scanner scanner = new Scanner(fileName); // create a scanner instance to read from the file
+            int totalFlips = 0;
+            int totalHeads = 0;
             
             while (scanner.hasNext()) {
-                String in = scanner.next();
-                char firstChar = in.charAt(0);
-                
+                String result = scanner.next().toLowerCase();
+                char firstChar = result.charAt(0);
+
+                if (firstChar == 'h') {
+                    totalHeads++;
+                }
+            totalFlips++;
         }
-        
+            
+            late percentage of heads
+            double percentageHeads = (double) totalHeads / totalFlips * 100;
+            
         
         }
     }
