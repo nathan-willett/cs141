@@ -1,0 +1,1668 @@
+Folder PATH listing
+Volume serial number is 565B-19FF
+C:.
+³   .gitattributes
+³   .gitignore
+³   build.gradle
+³   gradlew
+³   gradlew.bat
+³   output.txt
+³   settings.gradle
+³   
+ÃÄÄÄ.gradle
+³   ³   file-system.probe
+³   ³   workspace-id.txt
+³   ³   workspace-id.txt.lock
+³   ³   
+³   ÃÄÄÄ8.5
+³   ³   ³   gc.properties
+³   ³   ³   
+³   ³   ÃÄÄÄchecksums
+³   ³   ³       checksums.lock
+³   ³   ³       md5-checksums.bin
+³   ³   ³       sha1-checksums.bin
+³   ³   ³       
+³   ³   ÃÄÄÄdependencies-accessors
+³   ³   ³       dependencies-accessors.lock
+³   ³   ³       gc.properties
+³   ³   ³       
+³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³       executionHistory.bin
+³   ³   ³       executionHistory.lock
+³   ³   ³       
+³   ³   ÃÄÄÄfileChanges
+³   ³   ³       last-build.bin
+³   ³   ³       
+³   ³   ÃÄÄÄfileHashes
+³   ³   ³       fileHashes.bin
+³   ³   ³       fileHashes.lock
+³   ³   ³       resourceHashesCache.bin
+³   ³   ³       
+³   ³   ÀÄÄÄvcsMetadata
+³   ÃÄÄÄbuildOutputCleanup
+³   ³       buildOutputCleanup.lock
+³   ³       cache.properties
+³   ³       outputFiles.bin
+³   ³       
+³   ÀÄÄÄvcs-1
+³           gc.properties
+³           
+ÃÄÄÄ.vscode
+³       settings.json
+³       
+ÃÄÄÄArchive
+³   ÀÄÄÄgraphics
+³           DrawingPanel$1.class
+³           DrawingPanel$2.class
+³           DrawingPanel$3.class
+³           DrawingPanel$4.class
+³           DrawingPanel$5.class
+³           DrawingPanel$DebuggingGraphics.class
+³           DrawingPanel$DiffImage.class
+³           DrawingPanel$DirectGif89Frame.class
+³           DrawingPanel$DPActionListener$1.class
+³           DrawingPanel$DPActionListener.class
+³           DrawingPanel$DPFileFilter.class
+³           DrawingPanel$DPKeyEventHandler.class
+³           DrawingPanel$DPKeyEventHandlerAdapter.class
+³           DrawingPanel$DPMouseEventHandler.class
+³           DrawingPanel$DPMouseEventHandlerAdapter.class
+³           DrawingPanel$DPMouseListener.class
+³           DrawingPanel$DPWindowListener.class
+³           DrawingPanel$Gif89Encoder.class
+³           DrawingPanel$Gif89Frame.class
+³           DrawingPanel$GifColorTable.class
+³           DrawingPanel$GifPixelsEncoder.class
+³           DrawingPanel$ImageFrame.class
+³           DrawingPanel$ImagePanel.class
+³           DrawingPanel$IndexGif89Frame.class
+³           DrawingPanel$ReverseColorMap$ColorRecord.class
+³           DrawingPanel$ReverseColorMap.class
+³           DrawingPanel.class
+³           DrawingPanel.java
+³           
+ÃÄÄÄbuild
+³   ÃÄÄÄclasses
+³   ³   ÀÄÄÄjava
+³   ÃÄÄÄlibs
+³   ³       CS141.jar
+³   ³       
+³   ÃÄÄÄresources
+³   ÀÄÄÄtmp
+³       ÀÄÄÄjar
+³               MANIFEST.MF
+³               
+ÃÄÄÄCodeStepByStep
+³   ³   build.gradle
+³   ³   README.md
+³   ³   
+³   ÃÄÄÄ.vscode
+³   ³       settings.json
+³   ³       
+³   ÃÄÄÄbuild
+³   ³   ÃÄÄÄclasses
+³   ³   ³   ÀÄÄÄjava
+³   ³   ³       ÀÄÄÄmain
+³   ³   ³           ÃÄÄÄLab10__2_16
+³   ³   ³           ³       isPairwiseSortedClass.class
+³   ³   ³           ³       reverseClass.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab11__2_19
+³   ³   ³           ³       equalsClass.class
+³   ³   ³           ³       mostFrequentDigit.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab1__1_16
+³   ³   ³           ³       cat.class
+³   ³   ³           ³       hourGlass.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab2__1_22
+³   ³   ³           ³       expressionsNumbers1.class
+³   ³   ³           ³       expressionsNumbers2.class
+³   ³   ³           ³       methodTracing1.class
+³   ³   ³           ³       methodTracing3.class
+³   ³   ³           ³       smileyFace2.class
+³   ³   ³           ³       variables3.class
+³   ³   ³           ³       variables4.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab3__1_22
+³   ³   ³           ³       loopTable.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab4__1_29
+³   ³   ³           ³       loopTableConstant.class
+³   ³   ³           ³       loopTableSlashesConstant.class
+³   ³   ³           ³       NumbersOutput.class
+³   ³   ³           ³       ParameterMysteryExam2.class
+³   ³   ³           ³       Squares.class
+³   ³   ³           ³       Squares2.class
+³   ³   ³           ³       Squares3.class
+³   ³   ³           ³       test.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab5__1_29
+³   ³   ³           ³       isMultiple.class
+³   ³   ³           ³       mathExpressions.class
+³   ³   ³           ³       ParameterMysteryExam3.class
+³   ³   ³           ³       randomInteger0to10.class
+³   ³   ³           ³       randomOddInteger50to99.class
+³   ³   ³           ³       season.class
+³   ³   ³           ³       TaxCalculator.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab6__2_5
+³   ³   ³           ³       contribution.class
+³   ³   ³           ³       FractionSumClass.class
+³   ³   ³           ³       ScannerLogicError.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab7__2_4
+³   ³   ³           ³       loopMysteryExam1Class.class
+³   ³   ³           ³       SentinelSum.class
+³   ³   ³           ³       showTwosClass.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab8__2_11
+³   ³   ³           ³       flipCoins.class
+³   ³   ³           ³       GasPrices.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄLab9__2_11
+³   ³   ³           ³       averageValueInFileClass.class
+³   ³   ³           ³       Election.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄQuiz4__1_31
+³   ³   ³           ³       q4Problem6.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄQuiz5__2_2
+³   ³   ³           ³       q5Problem6.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems1A__1_8
+³   ³   ³           ³       escapeSequence1a.class
+³   ³   ³           ³       escapeSequence1b.class
+³   ³   ³           ³       escapeSequence1c.class
+³   ³   ³           ³       escapeSequence2.class
+³   ³   ³           ³       escapeSequence3.class
+³   ³   ³           ³       HelloWorld2.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems1B__1_8
+³   ³   ³           ³       DrawCar.class
+³   ³   ³           ³       expressionsNumbers37a.class
+³   ³   ³           ³       expressionsNumbers37b.class
+³   ³   ³           ³       expressionsNumbers37c.class
+³   ³   ³           ³       expressionsNumbers37d.class
+³   ³   ³           ³       FearTheTree.class
+³   ³   ³           ³       PrintProgram.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems2A__1_10
+³   ³   ³           ³       ComputePay.class
+³   ³   ³           ³       digitExpressions1.class
+³   ³   ³           ³       digitExpressions2.class
+³   ³   ³           ³       expressionsNumbers4a.class
+³   ³   ³           ³       expressionsNumbers4b.class
+³   ³   ³           ³       expressionsNumbers4c.class
+³   ³   ³           ³       expressionsNumbers4d.class
+³   ³   ³           ³       maxMin.class
+³   ³   ³           ³       starsPrint_A.class
+³   ³   ³           ³       starsPrint_B.class
+³   ³   ³           ³       starsPrint_C.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems2B__1_16
+³   ³   ³           ³       boxOfStars1.class
+³   ³   ³           ³       loopMysteryPrint1.class
+³   ³   ³           ³       numberLoops1.class
+³   ³   ³           ³       timesOperator.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems3A__1_22
+³   ³   ³           ³       averageOf3.class
+³   ³   ³           ³       expressionStrings1.class
+³   ³   ³           ³       numberLoops4Constant_A.class
+³   ³   ³           ³       numberLoops4Constant_B.class
+³   ³   ³           ³       parameterMystery1.class
+³   ³   ³           ³       parameterMysteryExam1.class
+³   ³   ³           ³       sequenceOfNumbers.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems3B__1_22
+³   ³   ³           ³       circleArea1.class
+³   ³   ³           ³       ifElseMystery1.class
+³   ³   ³           ³       printMaxMin.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems4A__1_24
+³   ³   ³           ³       Hogwarts.class
+³   ³   ³           ³       ifElseMystery3A.class
+³   ³   ³           ³       percentageGrade.class
+³   ³   ³           ³       RangeOfNumbers.class
+³   ³   ³           ³       ReturnMystery1.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems4B__1_29
+³   ³   ³           ³       expressionsExam6.class
+³   ³   ³           ³       ifElseMystery2.class
+³   ³   ³           ³       stutter.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems5A__2_2
+³   ³   ³           ³       loopMysteryExam3.class
+³   ³   ³           ³       loopMysteryExam5Class.class
+³   ³   ³           ³       marshallMathers.class
+³   ³   ³           ³       nameDiamondClass.class
+³   ³   ³           ³       printBackwardExercise.class
+³   ³   ³           ³       repeat.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems5B__2_5
+³   ³   ³           ³       assertions1.class
+³   ³   ³           ³       crazyCapsClass.class
+³   ³   ³           ³       startEndLetterClass.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems6A__2_11
+³   ³   ³           ³       coinFlipClass.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄSmallProblems6B__2_14
+³   ³   ³           ³       arrayMystery2.class
+³   ³   ³           ³       swapClass.class
+³   ³   ³           ³       
+³   ³   ³           ÀÄÄÄSmallProblems7A__2_19
+³   ³   ³                   arrayMystery3.class
+³   ³   ³                   arrayMystery7.class
+³   ³   ³                   
+³   ³   ÃÄÄÄgenerated
+³   ³   ³   ÀÄÄÄsources
+³   ³   ³       ÃÄÄÄannotationProcessor
+³   ³   ³       ³   ÀÄÄÄjava
+³   ³   ³       ³       ÀÄÄÄmain
+³   ³   ³       ÀÄÄÄheaders
+³   ³   ³           ÀÄÄÄjava
+³   ³   ³               ÀÄÄÄmain
+³   ³   ÃÄÄÄlibs
+³   ³   ³       CodeStepByStep-1.0.jar
+³   ³   ³       
+³   ³   ÃÄÄÄresources
+³   ³   ÀÄÄÄtmp
+³   ³       ÃÄÄÄcompileJava
+³   ³       ³   ³   previous-compilation-data.bin
+³   ³       ³   ³   
+³   ³       ³   ÀÄÄÄcompileTransaction
+³   ³       ³       ÃÄÄÄbackup-dir
+³   ³       ³       ÀÄÄÄstash-dir
+³   ³       ³               coinFlipClass.class.uniqueId0
+³   ³       ³               
+³   ³       ÀÄÄÄjar
+³   ³               MANIFEST.MF
+³   ³               
+³   ÃÄÄÄlib
+³   ³       DrawingPanel.jar
+³   ³       
+³   ÀÄÄÄsrc
+³       ÃÄÄÄLab10__2_16
+³       ³       isPairwiseSortedClass.java
+³       ³       reverseClass.java
+³       ³       
+³       ÃÄÄÄLab11__2_19
+³       ³       equalsClass.java
+³       ³       mostFrequentDigit.java
+³       ³       
+³       ÃÄÄÄLab1__1_16
+³       ³       cat.java
+³       ³       hourGlass.java
+³       ³       
+³       ÃÄÄÄLab2__1_22
+³       ³       expressionsNumbers1.java
+³       ³       expressionsNumbers2.java
+³       ³       methodTracing1.java
+³       ³       methodTracing3.java
+³       ³       smileyFace2.java
+³       ³       variables3.java
+³       ³       variables4.java
+³       ³       
+³       ÃÄÄÄLab3__1_22
+³       ³       loopTable.java
+³       ³       loopTableSlashes.java
+³       ³       
+³       ÃÄÄÄLab4__1_29
+³       ³       loopTableConstant.java
+³       ³       loopTableSlashesConstant.java
+³       ³       NumbersOutput.java
+³       ³       ParameterMysteryExam2.java
+³       ³       Squares.java
+³       ³       Squares2.java
+³       ³       Squares3.java
+³       ³       test.java
+³       ³       
+³       ÃÄÄÄLab5__1_29
+³       ³       isMultiple.java
+³       ³       mathExpressions.java
+³       ³       ParameterMysteryExam3.java
+³       ³       randomInteger0to10.java
+³       ³       randomOddInteger50to99.java
+³       ³       season.java
+³       ³       TaxCalculator.java
+³       ³       
+³       ÃÄÄÄLab6__2_5
+³       ³       contribution.java
+³       ³       FractionSumClass.java
+³       ³       ScannerLogicError.java
+³       ³       
+³       ÃÄÄÄLab7__2_4
+³       ³       loopMysteryExam1Class.java
+³       ³       SentinelSum.java
+³       ³       showTwosClass.java
+³       ³       
+³       ÃÄÄÄLab8__2_11
+³       ³       flipCoins.java
+³       ³       GasPrices.java
+³       ³       gasprices.txt
+³       ³       
+³       ÃÄÄÄLab9__2_11
+³       ³       averageValueInFileClass.java
+³       ³       Election.java
+³       ³       input.txt
+³       ³       
+³       ÃÄÄÄQuiz4__1_31
+³       ³       q4Problem6.java
+³       ³       
+³       ÃÄÄÄQuiz5__2_2
+³       ³       q5Problem6.java
+³       ³       
+³       ÃÄÄÄSmallProblems1A__1_8
+³       ³       escapeSequence1a.java
+³       ³       escapeSequence1b.java
+³       ³       escapeSequence1c.java
+³       ³       escapeSequence2.java
+³       ³       escapeSequence3.java
+³       ³       HelloWorld2.java
+³       ³       
+³       ÃÄÄÄSmallProblems1B__1_8
+³       ³       DrawCar.java
+³       ³       expressionsNumbers37a.java
+³       ³       expressionsNumbers37b.java
+³       ³       expressionsNumbers37c.java
+³       ³       expressionsNumbers37d.java
+³       ³       FearTheTree.java
+³       ³       PrintProgram.java
+³       ³       
+³       ÃÄÄÄSmallProblems2A__1_10
+³       ³       ComputePay.java
+³       ³       digitExpressions1.java
+³       ³       digitExpressions2.java
+³       ³       expressionsNumbers4a.java
+³       ³       expressionsNumbers4b.java
+³       ³       expressionsNumbers4c.java
+³       ³       expressionsNumbers4d.java
+³       ³       maxMin.java
+³       ³       starsPrint_A.java
+³       ³       starsPrint_B.java
+³       ³       starsPrint_C.java
+³       ³       
+³       ÃÄÄÄSmallProblems2B__1_16
+³       ³       boxOfStars1.java
+³       ³       loopMysteryPrint1.java
+³       ³       numberLoops1.java
+³       ³       timesOperator.java
+³       ³       
+³       ÃÄÄÄSmallProblems3A__1_22
+³       ³       averageOf3.java
+³       ³       expressionStrings1.java
+³       ³       numberLoops4Constant_A.java
+³       ³       numberLoops4Constant_B.java
+³       ³       parameterMystery1.java
+³       ³       parameterMysteryExam1.java
+³       ³       sequenceOfNumbers.java
+³       ³       
+³       ÃÄÄÄSmallProblems3B__1_22
+³       ³       circleArea1.java
+³       ³       ifElseMystery1.java
+³       ³       printMaxMin.java
+³       ³       
+³       ÃÄÄÄSmallProblems4A__1_24
+³       ³       Hogwarts.java
+³       ³       ifElseMystery3A.java
+³       ³       percentageGrade.java
+³       ³       RangeOfNumbers.java
+³       ³       ReturnMystery1.java
+³       ³       
+³       ÃÄÄÄSmallProblems4B__1_29
+³       ³       expressionsExam6.java
+³       ³       ifElseMystery2.java
+³       ³       stutter.java
+³       ³       
+³       ÃÄÄÄSmallProblems5A__2_2
+³       ³       loopMysteryExam3.java
+³       ³       loopMysteryExam5Class.java
+³       ³       marshallMathers.java
+³       ³       nameDiamondClass.java
+³       ³       printBackwardExercise.java
+³       ³       repeat.java
+³       ³       
+³       ÃÄÄÄSmallProblems5B__2_5
+³       ³       assertions1.java
+³       ³       crazyCapsClass.java
+³       ³       startEndLetterClass.java
+³       ³       
+³       ÃÄÄÄSmallProblems6A__2_11
+³       ³       coinFlipClass.java
+³       ³       coinInput.txt
+³       ³       
+³       ÃÄÄÄSmallProblems6B__2_14
+³       ³       arrayMystery2.java
+³       ³       swapClass.java
+³       ³       
+³       ÀÄÄÄSmallProblems7A__2_19
+³               arrayMystery3.java
+³               arrayMystery7.java
+³               
+ÃÄÄÄExampleCodeByWeek
+³   ³   build.gradle
+³   ³   README.md
+³   ³   
+³   ÃÄÄÄ.vscode
+³   ³       settings.json
+³   ³       
+³   ÃÄÄÄbuild
+³   ³   ÃÄÄÄclasses
+³   ³   ³   ÀÄÄÄjava
+³   ³   ³       ÀÄÄÄmain
+³   ³   ³           ÃÄÄÄweek1
+³   ³   ³           ³       ChineseZodiac.class
+³   ³   ³           ³       ComputeArea.class
+³   ³   ³           ³       ComputeAreaWithConsoleInput.class
+³   ³   ³           ³       ComputeAverage.class
+³   ³   ³           ³       DisplayTime.class
+³   ³   ³           ³       SalesTax.class
+³   ³   ³           ³       ShowLogicErrors.class
+³   ³   ³           ³       ShowRuntimeErrors.class
+³   ³   ³           ³       SubtractionQuiz.class
+³   ³   ³           ³       Welcome.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄweek2
+³   ³   ³           ³       ComputeAngles.class
+³   ³   ³           ³       Drawing.class
+³   ³   ³           ³       FormatDemo.class
+³   ³   ³           ³       GPSLocations.class
+³   ³   ³           ³       GuessBirthday.class
+³   ³   ³           ³       HexDigit2Dec.class
+³   ³   ³           ³       MonteCarloSimulation.class
+³   ³   ³           ³       MultiplicationTable.class
+³   ³   ³           ³       Nestedloops.class
+³   ³   ³           ³       OrderTwoCities.class
+³   ³   ³           ³       ParameterMystery.class
+³   ³   ³           ³       TestSum.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄweek3
+³   ³   ³           ³       Increment.class
+³   ³   ³           ³       MethodDemo.class
+³   ³   ³           ³       PrintCalendar.class
+³   ³   ³           ³       ReuseTestMax.class
+³   ³   ³           ³       smileyFace.class
+³   ³   ³           ³       TestMax.class
+³   ³   ³           ³       TestPassByValue.class
+³   ³   ³           ³       TestRandomCharacter$RandomCharacter.class
+³   ³   ³           ³       TestRandomCharacter.class
+³   ³   ³           ³       TestReturnGradeMethod.class
+³   ³   ³           ³       TestVoidMethod.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄweek4
+³   ³   ³           ³       BMI.class
+³   ³   ³           ³       ButtonInPane.class
+³   ³   ³           ³       dateexample.class
+³   ³   ³           ³       mathexpressions.class
+³   ³   ³           ³       MyJavaFX.class
+³   ³   ³           ³       PalindromeIgnoreNonAlphanumeric.class
+³   ³   ³           ³       ParameterMysteryExam1.class
+³   ³   ³           ³       TestPoint2D.class
+³   ³   ³           ³       variableScope.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄweek5
+³   ³   ³           ³       GuessNumber.class
+³   ³   ³           ³       GuessNumberOneTime.class
+³   ³   ³           ³       GuessNumberUsingBreak.class
+³   ³   ³           ³       PrimeNumber.class
+³   ³   ³           ³       RepeatAdditionQuiz.class
+³   ³   ³           ³       SentinelValue.class
+³   ³   ³           ³       SubtractionQuizLoop.class
+³   ³   ³           ³       Test.class
+³   ³   ³           ³       TestBreak.class
+³   ³   ³           ³       TestContinue.class
+³   ³   ³           ³       TestDoWhile.class
+³   ³   ³           ³       WhileToDoWhile.class
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄweek6
+³   ³   ³           ³       InputMismatchExceptionDemo.class
+³   ³   ³           ³       QuotientWithException.class
+³   ³   ³           ³       ReadData.class
+³   ³   ³           ³       ReadFileFromURL.class
+³   ³   ³           ³       ReplaceText.class
+³   ³   ³           ³       ShowRuntimeErrorsWithIf.class
+³   ³   ³           ³       ShowRuntimeErrorsWithMethod.class
+³   ³   ³           ³       TestFileClass.class
+³   ³   ³           ³       WebCrawler.class
+³   ³   ³           ³       WriteData.class
+³   ³   ³           ³       WriteDataWithAutoClose.class
+³   ³   ³           ³       
+³   ³   ³           ÀÄÄÄweek7
+³   ³   ³                   CountLettersInArray$RandomCharacter.class
+³   ³   ³                   CountLettersInArray.class
+³   ³   ³                   Reverse.class
+³   ³   ³                   TestPassArray.class
+³   ³   ³                   VarArgsDemo.class
+³   ³   ³                   WeatherAverage.class
+³   ³   ³                   
+³   ³   ÃÄÄÄgenerated
+³   ³   ³   ÀÄÄÄsources
+³   ³   ³       ÃÄÄÄannotationProcessor
+³   ³   ³       ³   ÀÄÄÄjava
+³   ³   ³       ³       ÀÄÄÄmain
+³   ³   ³       ÀÄÄÄheaders
+³   ³   ³           ÀÄÄÄjava
+³   ³   ³               ÀÄÄÄmain
+³   ³   ÃÄÄÄlibs
+³   ³   ³       ExampleCodeByWeek-1.0.jar
+³   ³   ³       
+³   ³   ÃÄÄÄresources
+³   ³   ÀÄÄÄtmp
+³   ³       ÃÄÄÄcompileJava
+³   ³       ³   ³   previous-compilation-data.bin
+³   ³       ³   ³   
+³   ³       ³   ÀÄÄÄcompileTransaction
+³   ³       ³       ÀÄÄÄbackup-dir
+³   ³       ÀÄÄÄjar
+³   ³               MANIFEST.MF
+³   ³               
+³   ÃÄÄÄlib
+³   ³       DrawingPanel.jar
+³   ³       
+³   ÀÄÄÄsrc
+³       ÃÄÄÄweek1
+³       ³       ChineseZodiac.java
+³       ³       ComputeArea.java
+³       ³       ComputeAreaWithConsoleInput.java
+³       ³       ComputeAverage.java
+³       ³       DisplayTime.java
+³       ³       SalesTax.java
+³       ³       ShowLogicErrors.java
+³       ³       ShowRuntimeErrors.java
+³       ³       ShowSyntaxErrors.java
+³       ³       SubtractionQuiz.java
+³       ³       Welcome.java
+³       ³       
+³       ÃÄÄÄweek2
+³       ³       ComputeAngles.java
+³       ³       Drawing.java
+³       ³       FormatDemo.java
+³       ³       GPSLocations.java
+³       ³       GuessBirthday.java
+³       ³       HexDigit2Dec.java
+³       ³       MonteCarloSimulation.java
+³       ³       MultiplicationTable.java
+³       ³       Nestedloops.java
+³       ³       OrderTwoCities.java
+³       ³       ParameterMystery.java
+³       ³       TestSum.java
+³       ³       
+³       ÃÄÄÄweek3
+³       ³       Increment.java
+³       ³       MethodDemo.java
+³       ³       PrintCalendar.java
+³       ³       ReuseTestMax.java
+³       ³       smileyFace.java
+³       ³       TestMax.java
+³       ³       TestPassByValue.java
+³       ³       TestRandomCharacter.java
+³       ³       TestReturnGradeMethod.java
+³       ³       TestVoidMethod.java
+³       ³       
+³       ÃÄÄÄweek4
+³       ³       BMI.java
+³       ³       ButtonInPane.java
+³       ³       dateexample.java
+³       ³       mathexpressions.java
+³       ³       MyJavaFX.java
+³       ³       PalindromeIgnoreNonAlphanumeric.java
+³       ³       ParameterMysteryExam1.java
+³       ³       TestPoint2D.java
+³       ³       variableScope.java
+³       ³       
+³       ÃÄÄÄweek5
+³       ³       GuessNumber.java
+³       ³       GuessNumberOneTime.java
+³       ³       GuessNumberUsingBreak.java
+³       ³       PrimeNumber.java
+³       ³       RepeatAdditionQuiz.java
+³       ³       SentinelValue.java
+³       ³       SubtractionQuizLoop.java
+³       ³       Test.java
+³       ³       TestBreak.java
+³       ³       TestContinue.java
+³       ³       TestDoWhile.java
+³       ³       WhileToDoWhile.java
+³       ³       
+³       ÃÄÄÄweek6
+³       ³       InputMismatchExceptionDemo.java
+³       ³       QuotientWithException.java
+³       ³       ReadData.java
+³       ³       ReadFileFromURL.java
+³       ³       ReplaceText.java
+³       ³       scores.txt
+³       ³       ShowRuntimeErrorsWithIf.java
+³       ³       ShowRuntimeErrorsWithMethod.java
+³       ³       TestFileClass.java
+³       ³       WebCrawler.java
+³       ³       WriteData.java
+³       ³       WriteDataWithAutoClose.java
+³       ³       
+³       ÃÄÄÄweek7
+³       ³       CountLettersInArray.java
+³       ³       Reverse.java
+³       ³       TestPassArray.java
+³       ³       VarArgsDemo.java
+³       ³       WeatherAverage.java
+³       ³       
+³       ÃÄÄÄweek8
+³       ÀÄÄÄweek9
+ÃÄÄÄgradle
+³   ÀÄÄÄwrapper
+³           gradle-wrapper.jar
+³           gradle-wrapper.properties
+³           
+ÀÄÄÄLiangSourceCodeExamples
+    ³   build.gradle
+    ³   README.md
+    ³   
+    ÃÄÄÄ.vscode
+    ³       settings.json
+    ³       
+    ÃÄÄÄbuild
+    ³   ÃÄÄÄclasses
+    ³   ³   ÀÄÄÄjava
+    ³   ³       ÀÄÄÄmain
+    ³   ³           ÃÄÄÄchapter1
+    ³   ³           ³       ComputeExpression.class
+    ³   ³           ³       ShowLogicErrors.class
+    ³   ³           ³       ShowRuntimeErrors.class
+    ³   ³           ³       ShowSyntaxErrors.class
+    ³   ³           ³       Welcome.class
+    ³   ³           ³       WelcomeWithThreeMessages.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter10
+    ³   ³           ³       BMI.class
+    ³   ³           ³       Course.class
+    ³   ³           ³       LargeFactorial.class
+    ³   ³           ³       Loan.class
+    ³   ³           ³       PalindromeIgnoreNonAlphanumeric.class
+    ³   ³           ³       StackOfIntegers.class
+    ³   ³           ³       TestCourse.class
+    ³   ³           ³       TestLoanClass.class
+    ³   ³           ³       TestStackOfIntegers.class
+    ³   ³           ³       UseBMIClass.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter11
+    ³   ³           ³       CastingDemo.class
+    ³   ³           ³       CircleFromSimpleGeometricObject.class
+    ³   ³           ³       DistinctNumbers.class
+    ³   ³           ³       DynamicBindingDemo.class
+    ³   ³           ³       GraduateStudent.class
+    ³   ³           ³       MyStack.class
+    ³   ³           ³       Person.class
+    ³   ³           ³       PolymorphismDemo.class
+    ³   ³           ³       RectangleFromSimpleGeometricObject.class
+    ³   ³           ³       SimpleGeometricObject.class
+    ³   ³           ³       Student.class
+    ³   ³           ³       TestArrayList.class
+    ³   ³           ³       TestCircleRectangle.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter12
+    ³   ³           ³       ChainedExceptionDemo.class
+    ³   ³           ³       CircleWithCustomException.class
+    ³   ³           ³       CircleWithException.class
+    ³   ³           ³       FileNotFoundExceptionDemo.class
+    ³   ³           ³       FinallyDemo.class
+    ³   ³           ³       InputMismatchExceptionDemo.class
+    ³   ³           ³       InvalidRadiusException.class
+    ³   ³           ³       Quotient.class
+    ³   ³           ³       QuotientWithException.class
+    ³   ³           ³       QuotientWithIf.class
+    ³   ³           ³       QuotientWithMethod.class
+    ³   ³           ³       ReadData.class
+    ³   ³           ³       ReadDataWithAutoClose.class
+    ³   ³           ³       ReadFileFromURL.class
+    ³   ³           ³       ReadFileUsingJFileChooser.class
+    ³   ³           ³       ReplaceText.class
+    ³   ³           ³       TestCircleWithCustomException.class
+    ³   ³           ³       TestCircleWithException.class
+    ³   ³           ³       TestException.class
+    ³   ³           ³       TestFileClass.class
+    ³   ³           ³       WebCrawler.class
+    ³   ³           ³       WriteData.class
+    ³   ³           ³       WriteDataWithAutoClose.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter13
+    ³   ³           ³       Animal.class
+    ³   ³           ³       Apple.class
+    ³   ³           ³       CancelListenerClass.class
+    ³   ³           ³       Chicken.class
+    ³   ³           ³       Circle.class
+    ³   ³           ³       ComparableRectangle.class
+    ³   ³           ³       Edible.class
+    ³   ³           ³       Fruit.class
+    ³   ³           ³       GenericSort.class
+    ³   ³           ³       GeometricObject.class
+    ³   ³           ³       HandleEvent.class
+    ³   ³           ³       House.class
+    ³   ³           ³       LargestNumbers.class
+    ³   ³           ³       OKListenerClass.class
+    ³   ³           ³       Orange.class
+    ³   ³           ³       Rational.class
+    ³   ³           ³       Rectangle.class
+    ³   ³           ³       SortComparableObjects.class
+    ³   ³           ³       SortRectangles.class
+    ³   ³           ³       TestCalendar.class
+    ³   ³           ³       TestEdible.class
+    ³   ³           ³       TestGeometricObject.class
+    ³   ³           ³       TestRationalClass.class
+    ³   ³           ³       Tiger.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter14
+    ³   ³           ³       BindingDemo.class
+    ³   ³           ³       ButtonInPane.class
+    ³   ³           ³       ClockPane.class
+    ³   ³           ³       CustomPane.class
+    ³   ³           ³       DisplayClock.class
+    ³   ³           ³       FontDemo.class
+    ³   ³           ³       LinePane.class
+    ³   ³           ³       MultipleStageDemo.class
+    ³   ³           ³       MyEllipse.class
+    ³   ³           ³       MyJavaFX.class
+    ³   ³           ³       MyPolygon.class
+    ³   ³           ³       NodeStyleRotateDemo.class
+    ³   ³           ³       ShowArc.class
+    ³   ³           ³       ShowBorderPane.class
+    ³   ³           ³       ShowCircle.class
+    ³   ³           ³       ShowCircleCentered.class
+    ³   ³           ³       ShowEllipse.class
+    ³   ³           ³       ShowFlowPane.class
+    ³   ³           ³       ShowGridPane.class
+    ³   ³           ³       ShowHBoxVBox.class
+    ³   ³           ³       ShowImage.class
+    ³   ³           ³       ShowLine.class
+    ³   ³           ³       ShowPolygon.class
+    ³   ³           ³       ShowRectangle.class
+    ³   ³           ³       ShowText.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter15
+    ³   ³           ³       AnonymousHandlerDemo$1.class
+    ³   ³           ³       AnonymousHandlerDemo$2.class
+    ³   ³           ³       AnonymousHandlerDemo$3.class
+    ³   ³           ³       AnonymousHandlerDemo$4.class
+    ³   ³           ³       AnonymousHandlerDemo.class
+    ³   ³           ³       BallPane.class
+    ³   ³           ³       BounceBallControl.class
+    ³   ³           ³       CancelHandlerClass.class
+    ³   ³           ³       CirclePane.class
+    ³   ³           ³       ClockAnimation.class
+    ³   ³           ³       ControlCircle$EnlargeHandler.class
+    ³   ³           ³       ControlCircle.class
+    ³   ³           ³       ControlCircleWithMouseAndKey.class
+    ³   ³           ³       ControlCircleWithoutEventHandling.class
+    ³   ³           ³       DisplayResizableClock.class
+    ³   ³           ³       FadeTransitionDemo.class
+    ³   ³           ³       FlagRisingAnimation.class
+    ³   ³           ³       HandleEvent.class
+    ³   ³           ³       KeyEventDemo$1.class
+    ³   ³           ³       KeyEventDemo.class
+    ³   ³           ³       LambdaHandlerDemo.class
+    ³   ³           ³       LoanCalculator.class
+    ³   ³           ³       MouseEventDemo.class
+    ³   ³           ³       ObservablePropertyDemo$1.class
+    ³   ³           ³       ObservablePropertyDemo.class
+    ³   ³           ³       OKHandlerClass.class
+    ³   ³           ³       PathTransitionDemo.class
+    ³   ³           ³       T1.class
+    ³   ³           ³       T2.class
+    ³   ³           ³       T3.class
+    ³   ³           ³       TestLambda.class
+    ³   ³           ³       TimelineDemo.class
+    ³   ³           ³       USMap$MapPane.class
+    ³   ³           ³       USMap.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter16
+    ³   ³           ³       BounceBallSlider.class
+    ³   ³           ³       ButtonDemo.class
+    ³   ³           ³       CheckBoxDemo.class
+    ³   ³           ³       ComboBoxDemo.class
+    ³   ³           ³       DescriptionPane.class
+    ³   ³           ³       FlagAnthem.class
+    ³   ³           ³       LabelWithGraphic.class
+    ³   ³           ³       ListViewDemo.class
+    ³   ³           ³       MediaDemo.class
+    ³   ³           ³       RadioButtonDemo.class
+    ³   ³           ³       ScrollBarDemo.class
+    ³   ³           ³       SliderDemo.class
+    ³   ³           ³       TextAreaDemo.class
+    ³   ³           ³       TextFieldDemo.class
+    ³   ³           ³       TicTacToe$Cell.class
+    ³   ³           ³       TicTacToe.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter17
+    ³   ³           ³       Copy.class
+    ³   ³           ³       DetectEndOfFile.class
+    ³   ³           ³       TestDataStream.class
+    ³   ³           ³       TestFileStream.class
+    ³   ³           ³       TestObjectInputStream.class
+    ³   ³           ³       TestObjectOutputStream.class
+    ³   ³           ³       TestObjectStreamForArray.class
+    ³   ³           ³       TestRandomAccessFile.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter18
+    ³   ³           ³       ComputeFactorial.class
+    ³   ³           ³       ComputeFactorialTailRecursion.class
+    ³   ³           ³       ComputeFibonacci.class
+    ³   ³           ³       DirectorySize.class
+    ³   ³           ³       RecursiveBinarySearch.class
+    ³   ³           ³       RecursivePalindrome.class
+    ³   ³           ³       RecursiveSelectionSort.class
+    ³   ³           ³       SierpinskiTriangle$SierpinskiTrianglePane.class
+    ³   ³           ³       SierpinskiTriangle.class
+    ³   ³           ³       TowersOfHanoi.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter19
+    ³   ³           ³       AnyWildCardDemo.class
+    ³   ³           ³       BoundedTypeDemo.class
+    ³   ³           ³       GenericMatrix.class
+    ³   ³           ³       GenericMethodDemo.class
+    ³   ³           ³       GenericSort.class
+    ³   ³           ³       GenericStack.class
+    ³   ³           ³       IntegerMatrix.class
+    ³   ³           ³       Max.class
+    ³   ³           ³       MaxUsingGenericType.class
+    ³   ³           ³       RationalMatrix.class
+    ³   ³           ³       SuperWildCardDemo.class
+    ³   ³           ³       TestIntegerMatrix.class
+    ³   ³           ³       TestRationalMatrix.class
+    ³   ³           ³       WildCardNeedDemo.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter2
+    ³   ³           ³       ComputeArea.class
+    ³   ³           ³       ComputeAreaWithConsoleInput.class
+    ³   ³           ³       ComputeAreaWithConstant.class
+    ³   ³           ³       ComputeAverage.class
+    ³   ³           ³       ComputeChange.class
+    ³   ³           ³       ComputeLoan.class
+    ³   ³           ³       DisplayTime.class
+    ³   ³           ³       FahrenheitToCelsius.class
+    ³   ³           ³       SalesTax.class
+    ³   ³           ³       ShowCurrentTime.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter20
+    ³   ³           ³       EvaluateExpression.class
+    ³   ³           ³       GeometricObjectComparator.class
+    ³   ³           ³       MultipleBounceBall$Ball.class
+    ³   ³           ³       MultipleBounceBall$MultipleBallPane.class
+    ³   ³           ³       MultipleBounceBall.class
+    ³   ³           ³       PriorityQueueDemo.class
+    ³   ³           ³       SortStringByLength$MyComparator.class
+    ³   ³           ³       SortStringByLength.class
+    ³   ³           ³       SortStringIgnoreCase.class
+    ³   ³           ³       TestArrayAndLinkedList.class
+    ³   ³           ³       TestCollection.class
+    ³   ³           ³       TestComparator.class
+    ³   ³           ³       TestIterator.class
+    ³   ³           ³       TestQueue.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter21
+    ³   ³           ³       CountKeywords.class
+    ³   ³           ³       CountOccurrenceOfWords.class
+    ³   ³           ³       SetListPerformanceTest.class
+    ³   ³           ³       TestHashSet.class
+    ³   ³           ³       TestLinkedHashSet.class
+    ³   ³           ³       TestMap.class
+    ³   ³           ³       TestMethodsInCollection.class
+    ³   ³           ³       TestTreeSet.class
+    ³   ³           ³       TestTreeSetWithComparator.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter22
+    ³   ³           ³       EfficientPrimeNumbers.class
+    ³   ³           ³       EightQueens.class
+    ³   ³           ³       GCD.class
+    ³   ³           ³       GCDEuclid.class
+    ³   ³           ³       ImprovedFibonacci.class
+    ³   ³           ³       PerformanceTest.class
+    ³   ³           ³       PrimeNumbers.class
+    ³   ³           ³       SieveOfEratosthenes.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter23
+    ³   ³           ³       BubbleSort.class
+    ³   ³           ³       CreateLargeFile.class
+    ³   ³           ³       Heap.class
+    ³   ³           ³       HeapSort.class
+    ³   ³           ³       InsertionSort.class
+    ³   ³           ³       MergeSort.class
+    ³   ³           ³       QuickSort.class
+    ³   ³           ³       SortLargeFile.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter24
+    ³   ³           ³       GenericQueue.class
+    ³   ³           ³       MyArrayList$1.class
+    ³   ³           ³       MyArrayList$ArrayListIterator.class
+    ³   ³           ³       MyArrayList.class
+    ³   ³           ³       MyLinkedList$1.class
+    ³   ³           ³       MyLinkedList$LinkedListIterator.class
+    ³   ³           ³       MyLinkedList$Node.class
+    ³   ³           ³       MyLinkedList.class
+    ³   ³           ³       MyList.class
+    ³   ³           ³       MyPriorityQueue.class
+    ³   ³           ³       TestMyArrayList.class
+    ³   ³           ³       TestMyLinkedList.class
+    ³   ³           ³       TestStackQueue.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter25
+    ³   ³           ³       BST$InorderIterator.class
+    ³   ³           ³       BST$TreeNode.class
+    ³   ³           ³       BST.class
+    ³   ³           ³       BSTAnimation.class
+    ³   ³           ³       BTView.class
+    ³   ³           ³       HuffmanCode$Tree$Node.class
+    ³   ³           ³       HuffmanCode$Tree.class
+    ³   ³           ³       HuffmanCode.class
+    ³   ³           ³       TestBST.class
+    ³   ³           ³       TestBSTDelete.class
+    ³   ³           ³       TestBSTWithIterator.class
+    ³   ³           ³       Tree.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter27
+    ³   ³           ³       MyHashMap.class
+    ³   ³           ³       MyHashSet$MyHashSetIterator.class
+    ³   ³           ³       MyHashSet.class
+    ³   ³           ³       MyMap$Entry.class
+    ³   ³           ³       MyMap.class
+    ³   ³           ³       TestMyHashMap.class
+    ³   ³           ³       TestMyHashSet.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter28
+    ³   ³           ³       AbstractGraph.class
+    ³   ³           ³       ConnectedCircles$CirclePane.class
+    ³   ³           ³       ConnectedCircles.class
+    ³   ³           ³       Displayable.class
+    ³   ³           ³       DisplayUSMap$City.class
+    ³   ³           ³       DisplayUSMap.class
+    ³   ³           ³       Edge.class
+    ³   ³           ³       Graph.class
+    ³   ³           ³       GraphView.class
+    ³   ³           ³       NineTail.class
+    ³   ³           ³       NineTailModel.class
+    ³   ³           ³       TestBFS.class
+    ³   ³           ³       TestDFS.class
+    ³   ³           ³       TestGraph.class
+    ³   ³           ³       UnweightedGraph$SearchTree.class
+    ³   ³           ³       UnweightedGraph.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter29
+    ³   ³           ³       TestMinimumSpanningTree.class
+    ³   ³           ³       TestShortestPath.class
+    ³   ³           ³       WeightedEdge.class
+    ³   ³           ³       WeightedGraph$MST.class
+    ³   ³           ³       WeightedGraph$ShortestPathTree.class
+    ³   ³           ³       WeightedGraph.class
+    ³   ³           ³       WeightedNineTail.class
+    ³   ³           ³       WeightedNineTailModel.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter3
+    ³   ³           ³       AdditionQuiz.class
+    ³   ³           ³       ChineseZodiac.class
+    ³   ³           ³       ComputeAndInterpretBMI.class
+    ³   ³           ³       ComputeTax.class
+    ³   ³           ³       LeapYear.class
+    ³   ³           ³       Lottery.class
+    ³   ³           ³       SimpleIfDemo.class
+    ³   ³           ³       SubtractionQuiz.class
+    ³   ³           ³       TestBooleanOperators.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter30
+    ³   ³           ³       AnalyzeNumbersUsingStream.class
+    ³   ³           ³       CollectDemo.class
+    ³   ³           ³       CollectGroupDemo.class
+    ³   ³           ³       CountKeywordStream.class
+    ³   ³           ³       CountLettersUsingStream.class
+    ³   ³           ³       CountOccurrenceOfLettersInAString.class
+    ³   ³           ³       CountOccurrenceOfWordsStream.class
+    ³   ³           ³       DirectorySizeStream.class
+    ³   ³           ³       IntStreamDemo.class
+    ³   ³           ³       MyStudent.class
+    ³   ³           ³       StreamDemo.class
+    ³   ³           ³       StreamReductionDemo.class
+    ³   ³           ³       TwoDimensionalArrayStream.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter31
+    ³   ³           ³       AddNewRowDemo$1.class
+    ³   ³           ³       AddNewRowDemo$Country.class
+    ³   ³           ³       AddNewRowDemo.class
+    ³   ³           ³       ContextMenuDemo.class
+    ³   ³           ³       CurveDemo.class
+    ³   ³           ³       MenuDemo.class
+    ³   ³           ³       PathDemo.class
+    ³   ³           ³       RotateDemo.class
+    ³   ³           ³       ScaleDemo.class
+    ³   ³           ³       SplitPaneDemo.class
+    ³   ³           ³       StrokeDemo.class
+    ³   ³           ³       StyleSheetDemo.class
+    ³   ³           ³       TableViewDemo$1.class
+    ³   ³           ³       TableViewDemo$Country.class
+    ³   ³           ³       TableViewDemo.class
+    ³   ³           ³       TabPaneDemo.class
+    ³   ³           ³       TranslationDemo.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter32
+    ³   ³           ³       AccountWithoutSync$1.class
+    ³   ³           ³       AccountWithoutSync$Account.class
+    ³   ³           ³       AccountWithoutSync$AddAPennyTask.class
+    ³   ³           ³       AccountWithoutSync.class
+    ³   ³           ³       AccountWithSyncUsingLock$Account.class
+    ³   ³           ³       AccountWithSyncUsingLock$AddAPennyTask.class
+    ³   ³           ³       AccountWithSyncUsingLock.class
+    ³   ³           ³       ConsumerProducer$1.class
+    ³   ³           ³       ConsumerProducer$Buffer.class
+    ³   ³           ³       ConsumerProducer$ConsumerTask.class
+    ³   ³           ³       ConsumerProducer$ProducerTask.class
+    ³   ³           ³       ConsumerProducer.class
+    ³   ³           ³       ConsumerProducerUsingBlockingQueue$1.class
+    ³   ³           ³       ConsumerProducerUsingBlockingQueue$ConsumerTask.class
+    ³   ³           ³       ConsumerProducerUsingBlockingQueue$ProducerTask.class
+    ³   ³           ³       ConsumerProducerUsingBlockingQueue.class
+    ³   ³           ³       ExecutorDemo.class
+    ³   ³           ³       FlashText$1$1.class
+    ³   ³           ³       FlashText$1.class
+    ³   ³           ³       FlashText.class
+    ³   ³           ³       ParallelMax$MaxTask.class
+    ³   ³           ³       ParallelMax.class
+    ³   ³           ³       ParallelMergeSort$SortTask.class
+    ³   ³           ³       ParallelMergeSort.class
+    ³   ³           ³       PrintChar.class
+    ³   ³           ³       PrintNum.class
+    ³   ³           ³       TaskThreadDemo.class
+    ³   ³           ³       ThreadCooperation$1.class
+    ³   ³           ³       ThreadCooperation$Account.class
+    ³   ³           ³       ThreadCooperation$DepositTask.class
+    ³   ³           ³       ThreadCooperation$WithdrawTask.class
+    ³   ³           ³       ThreadCooperation.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter33
+    ³   ³           ³       Client.class
+    ³   ³           ³       IdentifyHostNameIP.class
+    ³   ³           ³       MultiThreadServer$HandleAClient.class
+    ³   ³           ³       MultiThreadServer.class
+    ³   ³           ³       Server.class
+    ³   ³           ³       StudentAddress.class
+    ³   ³           ³       StudentClient$1.class
+    ³   ³           ³       StudentClient$ButtonListener.class
+    ³   ³           ³       StudentClient.class
+    ³   ³           ³       StudentServer.class
+    ³   ³           ³       TicTacToeClient$Cell.class
+    ³   ³           ³       TicTacToeClient.class
+    ³   ³           ³       TicTacToeConstants.class
+    ³   ³           ³       TicTacToeServer$HandleASession.class
+    ³   ³           ³       TicTacToeServer.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter34
+    ³   ³           ³       FindGrade.class
+    ³   ³           ³       FindGradeUsingPreparedStatement.class
+    ³   ³           ³       FindUserTables.class
+    ³   ³           ³       SimpleJdbc.class
+    ³   ³           ³       TestCallableStatement.class
+    ³   ³           ³       TestDatabaseMetaData.class
+    ³   ³           ³       TestResultSetMetaData.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter35
+    ³   ³           ³       CopyFileToTable.class
+    ³   ³           ³       ScrollUpdateResultSet.class
+    ³   ³           ³       SQLClient.class
+    ³   ³           ³       StoreAndRetrieveImage.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter36
+    ³   ³           ³       CalendarApp.class
+    ³   ³           ³       CalendarPane.class
+    ³   ³           ³       EncodingDemo.class
+    ³   ³           ³       NumberFormatDemo.class
+    ³   ³           ³       ResourceBundleDemo.class
+    ³   ³           ³       WorldClock.class
+    ³   ³           ³       WorldClockApp.class
+    ³   ³           ³       WorldClockControl.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter4
+    ³   ³           ³       ComputeAngles.class
+    ³   ³           ³       FormatDemo.class
+    ³   ³           ³       GuessBirthday.class
+    ³   ³           ³       HexDigit2Dec.class
+    ³   ³           ³       LotteryUsingStrings.class
+    ³   ³           ³       OrderTwoCities.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter5
+    ³   ³           ³       Dec2Hex.class
+    ³   ³           ³       FutureTuition.class
+    ³   ³           ³       GreatestCommonDivisor.class
+    ³   ³           ³       GuessNumber.class
+    ³   ³           ³       GuessNumberOneTime.class
+    ³   ³           ³       MultiplicationTable.class
+    ³   ³           ³       Palindrome.class
+    ³   ³           ³       PrimeNumber.class
+    ³   ³           ³       RepeatAdditionQuiz.class
+    ³   ³           ³       SentinelValue.class
+    ³   ³           ³       SubtractionQuizLoop.class
+    ³   ³           ³       TestBreak.class
+    ³   ³           ³       TestContinue.class
+    ³   ³           ³       TestDoWhile.class
+    ³   ³           ³       TestSum.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter6
+    ³   ³           ³       GreatestCommonDivisorMethod.class
+    ³   ³           ³       Hex2Dec.class
+    ³   ³           ³       Increment.class
+    ³   ³           ³       PrimeNumberMethod.class
+    ³   ³           ³       PrintCalendar.class
+    ³   ³           ³       RandomCharacter.class
+    ³   ³           ³       TestMax.class
+    ³   ³           ³       TestMethodOverloading.class
+    ³   ³           ³       TestPassByValue.class
+    ³   ³           ³       TestRandomCharacter.class
+    ³   ³           ³       TestReturnGradeMethod.class
+    ³   ³           ³       TestVoidMethod.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter7
+    ³   ³           ³       AnalyzeNumbers.class
+    ³   ³           ³       BinarySearch.class
+    ³   ³           ³       Calculator.class
+    ³   ³           ³       CountLettersInArray.class
+    ³   ³           ³       DeckOfCards.class
+    ³   ³           ³       InsertionSort.class
+    ³   ³           ³       LinearSearch.class
+    ³   ³           ³       SelectionSort.class
+    ³   ³           ³       TestPassArray.class
+    ³   ³           ³       VarArgsDemo.class
+    ³   ³           ³       
+    ³   ³           ÃÄÄÄchapter8
+    ³   ³           ³       CheckSudokuSolution.class
+    ³   ³           ³       FindNearestPoints.class
+    ³   ³           ³       GradeExam.class
+    ³   ³           ³       GuessBirthdayUsingArray.class
+    ³   ³           ³       PassTwoDimensionalArray.class
+    ³   ³           ³       Weather.class
+    ³   ³           ³       
+    ³   ³           ÀÄÄÄchapter9
+    ³   ³                   CircleWithPrivateDataFields.class
+    ³   ³                   CircleWithStaticMembers.class
+    ³   ³                   SimpleCircle.class
+    ³   ³                   TestCircleWithPrivateDataFields.class
+    ³   ³                   TestCircleWithStaticMembers.class
+    ³   ³                   TestFrame.class
+    ³   ³                   TestPassObject.class
+    ³   ³                   TestPoint2D.class
+    ³   ³                   TestSimpleCircle.class
+    ³   ³                   TestTV.class
+    ³   ³                   TotalArea.class
+    ³   ³                   TV.class
+    ³   ³                   
+    ³   ÃÄÄÄgenerated
+    ³   ³   ÀÄÄÄsources
+    ³   ³       ÃÄÄÄannotationProcessor
+    ³   ³       ³   ÀÄÄÄjava
+    ³   ³       ³       ÀÄÄÄmain
+    ³   ³       ÀÄÄÄheaders
+    ³   ³           ÀÄÄÄjava
+    ³   ³               ÀÄÄÄmain
+    ³   ÃÄÄÄlibs
+    ³   ³       LiangSourceCodeExamples-1.0.jar
+    ³   ³       
+    ³   ÃÄÄÄresources
+    ³   ÀÄÄÄtmp
+    ³       ÃÄÄÄcompileJava
+    ³       ³   ³   previous-compilation-data.bin
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄcompileTransaction
+    ³       ³       ÃÄÄÄbackup-dir
+    ³       ³       ÀÄÄÄstash-dir
+    ³       ³               DisplayTime.class.uniqueId0
+    ³       ³               
+    ³       ÀÄÄÄjar
+    ³               MANIFEST.MF
+    ³               
+    ÃÄÄÄlib
+    ³       DrawingPanel.java
+    ³       
+    ÀÄÄÄsrc
+        ÃÄÄÄchapter1
+        ³       ComputeExpression.java
+        ³       ShowLogicErrors.java
+        ³       ShowRuntimeErrors.java
+        ³       ShowSyntaxErrors.java
+        ³       Welcome.java
+        ³       WelcomeWithThreeMessages.java
+        ³       
+        ÃÄÄÄchapter10
+        ³       BMI.java
+        ³       Course.java
+        ³       LargeFactorial.java
+        ³       Loan.java
+        ³       PalindromeIgnoreNonAlphanumeric.java
+        ³       StackOfIntegers.java
+        ³       TestCourse.java
+        ³       TestLoanClass.java
+        ³       TestStackOfIntegers.java
+        ³       UseBMIClass.java
+        ³       
+        ÃÄÄÄchapter11
+        ³       CastingDemo.java
+        ³       CircleFromSimpleGeometricObject.java
+        ³       DistinctNumbers.java
+        ³       DynamicBindingDemo.java
+        ³       MyStack.java
+        ³       PolymorphismDemo.java
+        ³       RectangleFromSimpleGeometricObject.java
+        ³       SimpleGeometricObject.java
+        ³       TestArrayList.java
+        ³       TestCircleRectangle.java
+        ³       
+        ÃÄÄÄchapter12
+        ³       ChainedExceptionDemo.java
+        ³       CircleWithException.java
+        ³       FileNotFoundExceptionDemo.java
+        ³       FinallyDemo.java
+        ³       InputMismatchExceptionDemo.java
+        ³       InvalidRadiusException.java
+        ³       Quotient.java
+        ³       QuotientWithException.java
+        ³       QuotientWithIf.java
+        ³       QuotientWithMethod.java
+        ³       ReadData.java
+        ³       ReadDataWithAutoClose.java
+        ³       ReadFileFromURL.java
+        ³       ReadFileUsingJFileChooser.java
+        ³       ReplaceText.java
+        ³       TestCircleWithCustomException.java
+        ³       TestCircleWithException.java
+        ³       TestException.java
+        ³       TestFileClass.java
+        ³       WebCrawler.java
+        ³       WriteData.java
+        ³       WriteDataWithAutoClose.java
+        ³       
+        ÃÄÄÄchapter13
+        ³       Circle.java
+        ³       ComparableRectangle.java
+        ³       Edible.java
+        ³       GenericSort.java
+        ³       GeometricObject.java
+        ³       HandleEvent.java
+        ³       House.java
+        ³       LargestNumbers.java
+        ³       Rational.java
+        ³       Rectangle.java
+        ³       SortComparableObjects.java
+        ³       SortRectangles.java
+        ³       TestCalendar.java
+        ³       TestEdible.java
+        ³       TestGeometricObject.java
+        ³       TestRationalClass.java
+        ³       
+        ÃÄÄÄchapter14
+        ³       BindingDemo.java
+        ³       ButtonInPane.java
+        ³       ClockPane.java
+        ³       DisplayClock.java
+        ³       FontDemo.java
+        ³       MultipleStageDemo.java
+        ³       MyJavaFX.java
+        ³       NodeStyleRotateDemo.java
+        ³       ShowArc.java
+        ³       ShowBorderPane.java
+        ³       ShowCircle.java
+        ³       ShowCircleCentered.java
+        ³       ShowEllipse.java
+        ³       ShowFlowPane.java
+        ³       ShowGridPane.java
+        ³       ShowHBoxVBox.java
+        ³       ShowImage.java
+        ³       ShowLine.java
+        ³       ShowPolygon.java
+        ³       ShowRectangle.java
+        ³       ShowText.java
+        ³       
+        ÃÄÄÄchapter15
+        ³       AnonymousHandlerDemo.java
+        ³       BallPane.java
+        ³       BounceBallControl.java
+        ³       ClockAnimation.java
+        ³       ControlCircle.java
+        ³       ControlCircleWithMouseAndKey.java
+        ³       ControlCircleWithoutEventHandling.java
+        ³       DisplayResizableClock.java
+        ³       FadeTransitionDemo.java
+        ³       FlagRisingAnimation.java
+        ³       HandleEvent.java
+        ³       KeyEventDemo.java
+        ³       LambdaHandlerDemo.java
+        ³       LoanCalculator.java
+        ³       MouseEventDemo.java
+        ³       ObservablePropertyDemo.java
+        ³       PathTransitionDemo.java
+        ³       TestLambda.java
+        ³       TimelineDemo.java
+        ³       USMap.java
+        ³       
+        ÃÄÄÄchapter16
+        ³       BounceBallSlider.java
+        ³       ButtonDemo.java
+        ³       CheckBoxDemo.java
+        ³       ComboBoxDemo.java
+        ³       DescriptionPane.java
+        ³       FlagAnthem.java
+        ³       LabelWithGraphic.java
+        ³       ListViewDemo.java
+        ³       MediaDemo.java
+        ³       RadioButtonDemo.java
+        ³       ScrollBarDemo.java
+        ³       SliderDemo.java
+        ³       TextAreaDemo.java
+        ³       TextFieldDemo.java
+        ³       TicTacToe.java
+        ³       
+        ÃÄÄÄchapter17
+        ³       Copy.java
+        ³       DetectEndOfFile.java
+        ³       TestDataStream.java
+        ³       TestFileStream.java
+        ³       TestObjectInputStream.java
+        ³       TestObjectOutputStream.java
+        ³       TestObjectStreamForArray.java
+        ³       TestRandomAccessFile.java
+        ³       
+        ÃÄÄÄchapter18
+        ³       ComputeFactorial.java
+        ³       ComputeFactorialTailRecursion.java
+        ³       ComputeFibonacci.java
+        ³       DirectorySize.java
+        ³       RecursiveBinarySearch.java
+        ³       RecursivePalindrome.java
+        ³       RecursiveSelectionSort.java
+        ³       SierpinskiTriangle.java
+        ³       TowersOfHanoi.java
+        ³       
+        ÃÄÄÄchapter19
+        ³       AnyWildCardDemo.java
+        ³       BoundedTypeDemo.java
+        ³       GenericMatrix.java
+        ³       GenericMethodDemo.java
+        ³       GenericSort.java
+        ³       GenericStack.java
+        ³       IntegerMatrix.java
+        ³       Max.java
+        ³       MaxUsingGenericType.java
+        ³       RationalMatrix.java
+        ³       SuperWildCardDemo.java
+        ³       TestIntegerMatrix.java
+        ³       TestRationalMatrix.java
+        ³       WildCardNeedDemo.java
+        ³       
+        ÃÄÄÄchapter2
+        ³       ComputeArea.java
+        ³       ComputeAreaWithConsoleInput.java
+        ³       ComputeAreaWithConstant.java
+        ³       ComputeAverage.java
+        ³       ComputeChange.java
+        ³       ComputeLoan.java
+        ³       DisplayTime.java
+        ³       FahrenheitToCelsius.java
+        ³       SalesTax.java
+        ³       ShowCurrentTime.java
+        ³       
+        ÃÄÄÄchapter20
+        ³       EvaluateExpression.java
+        ³       GeometricObjectComparator.java
+        ³       MultipleBounceBall.java
+        ³       PriorityQueueDemo.java
+        ³       SortStringByLength.java
+        ³       SortStringIgnoreCase.java
+        ³       TestArrayAndLinkedList.java
+        ³       TestCollection.java
+        ³       TestComparator.java
+        ³       TestIterator.java
+        ³       TestQueue.java
+        ³       
+        ÃÄÄÄchapter21
+        ³       CountKeywords.java
+        ³       CountOccurrenceOfWords.java
+        ³       SetListPerformanceTest.java
+        ³       TestHashSet.java
+        ³       TestLinkedHashSet.java
+        ³       TestMap.java
+        ³       TestMethodsInCollection.java
+        ³       TestTreeSet.java
+        ³       TestTreeSetWithComparator.java
+        ³       
+        ÃÄÄÄchapter22
+        ³       EfficientPrimeNumbers.java
+        ³       EightQueens.java
+        ³       GCD.java
+        ³       GCDEuclid.java
+        ³       ImprovedFibonacci.java
+        ³       PerformanceTest.java
+        ³       PrimeNumbers.java
+        ³       SieveOfEratosthenes.java
+        ³       
+        ÃÄÄÄchapter23
+        ³       BubbleSort.java
+        ³       CreateLargeFile.java
+        ³       Heap.java
+        ³       HeapSort.java
+        ³       InsertionSort.java
+        ³       MergeSort.java
+        ³       QuickSort.java
+        ³       SortLargeFile.java
+        ³       
+        ÃÄÄÄchapter24
+        ³       GenericQueue.java
+        ³       MyArrayList.java
+        ³       MyLinkedList.java
+        ³       MyList.java
+        ³       MyPriorityQueue.java
+        ³       TestMyArrayList.java
+        ³       TestMyLinkedList.java
+        ³       TestPriorityQueue.java
+        ³       TestStackQueue.java
+        ³       
+        ÃÄÄÄchapter25
+        ³       BST.java
+        ³       BSTAnimation.java
+        ³       BTView.java
+        ³       HuffmanCode.java
+        ³       TestBST.java
+        ³       TestBSTDelete.java
+        ³       TestBSTWithIterator.java
+        ³       Tree.java
+        ³       
+        ÃÄÄÄchapter26
+        ³       AVLTree.java
+        ³       TestAVLTree.java
+        ³       
+        ÃÄÄÄchapter27
+        ³       MyHashMap.java
+        ³       MyHashSet.java
+        ³       MyMap.java
+        ³       TestMyHashMap.java
+        ³       TestMyHashSet.java
+        ³       
+        ÃÄÄÄchapter28
+        ³       AbstractGraph.java
+        ³       ConnectedCircles.java
+        ³       Displayable.java
+        ³       DisplayUSMap.java
+        ³       Edge.java
+        ³       Graph.java
+        ³       GraphView.java
+        ³       NineTail.java
+        ³       NineTailModel.java
+        ³       TestBFS.java
+        ³       TestDFS.java
+        ³       TestGraph.java
+        ³       UnweightedGraph.java
+        ³       
+        ÃÄÄÄchapter29
+        ³       TestMinimumSpanningTree.java
+        ³       TestShortestPath.java
+        ³       WeightedEdge.java
+        ³       WeightedGraph.java
+        ³       WeightedNineTail.java
+        ³       WeightedNineTailModel.java
+        ³       
+        ÃÄÄÄchapter3
+        ³       AdditionQuiz.java
+        ³       ChineseZodiac.java
+        ³       ComputeAndInterpretBMI.java
+        ³       ComputeTax.java
+        ³       LeapYear.java
+        ³       Lottery.java
+        ³       SimpleIfDemo.java
+        ³       SubtractionQuiz.java
+        ³       TestBooleanOperators.java
+        ³       
+        ÃÄÄÄchapter30
+        ³       AnalyzeNumbersUsingStream.java
+        ³       CollectDemo.java
+        ³       CollectGroupDemo.java
+        ³       CountKeywordStream.java
+        ³       CountLettersUsingStream.java
+        ³       CountOccurrenceOfLettersInAString.java
+        ³       CountOccurrenceOfWordsStream.java
+        ³       DirectorySizeStream.java
+        ³       IntStreamDemo.java
+        ³       StreamDemo.java
+        ³       StreamReductionDemo.java
+        ³       TwoDimensionalArrayStream.java
+        ³       
+        ÃÄÄÄchapter31
+        ³       AddNewRowDemo.java
+        ³       ContextMenuDemo.java
+        ³       CurveDemo.java
+        ³       MenuDemo.java
+        ³       PathDemo.java
+        ³       RotateDemo.java
+        ³       ScaleDemo.java
+        ³       SplitPaneDemo.java
+        ³       StrokeDemo.java
+        ³       StyleSheetDemo.java
+        ³       TableViewDemo.java
+        ³       TabPaneDemo.java
+        ³       TranslationDemo.java
+        ³       
+        ÃÄÄÄchapter32
+        ³       AccountWithoutSync.java
+        ³       AccountWithSyncUsingLock.java
+        ³       ConsumerProducer.java
+        ³       ConsumerProducerUsingBlockingQueue.java
+        ³       ExecutorDemo.java
+        ³       FlashText.java
+        ³       ParallelMax.java
+        ³       ParallelMergeSort.java
+        ³       TaskThreadDemo.java
+        ³       ThreadCooperation.java
+        ³       
+        ÃÄÄÄchapter33
+        ³       Client.java
+        ³       IdentifyHostNameIP.java
+        ³       MultiThreadServer.java
+        ³       Server.java
+        ³       StudentAddress.java
+        ³       StudentClient.java
+        ³       StudentServer.java
+        ³       TicTacToeClient.java
+        ³       TicTacToeConstants.java
+        ³       TicTacToeServer.java
+        ³       
+        ÃÄÄÄchapter34
+        ³       FindGrade.java
+        ³       FindGradeUsingPreparedStatement.java
+        ³       FindUserTables.java
+        ³       SimpleJdbc.java
+        ³       TestCallableStatement.java
+        ³       TestDatabaseMetaData.java
+        ³       TestResultSetMetaData.java
+        ³       
+        ÃÄÄÄchapter35
+        ³       CopyFileToTable.java
+        ³       RowSetPreparedStatement.java
+        ³       ScrollUpdateResultSet.java
+        ³       ScrollUpdateRowSet.java
+        ³       SimpleRowSet.java
+        ³       SQLClient.java
+        ³       StoreAndRetrieveImage.java
+        ³       TestRowSetEvent.java
+        ³       
+        ÃÄÄÄchapter36
+        ³       CalendarApp.java
+        ³       CalendarPane.java
+        ³       EncodingDemo.java
+        ³       NumberFormatDemo.java
+        ³       ResourceBundleDemo.java
+        ³       WorldClock.java
+        ³       WorldClockApp.java
+        ³       WorldClockControl.java
+        ³       
+        ÃÄÄÄchapter4
+        ³       ComputeAngles.java
+        ³       FormatDemo.java
+        ³       GuessBirthday.java
+        ³       HexDigit2Dec.java
+        ³       LotteryUsingStrings.java
+        ³       OrderTwoCities.java
+        ³       
+        ÃÄÄÄchapter5
+        ³       Dec2Hex.java
+        ³       FutureTuition.java
+        ³       GreatestCommonDivisor.java
+        ³       GuessNumber.java
+        ³       GuessNumberOneTime.java
+        ³       MultiplicationTable.java
+        ³       Palindrome.java
+        ³       PrimeNumber.java
+        ³       RepeatAdditionQuiz.java
+        ³       SentinelValue.java
+        ³       SubtractionQuizLoop.java
+        ³       TestBreak.java
+        ³       TestContinue.java
+        ³       TestDoWhile.java
+        ³       TestSum.java
+        ³       
+        ÃÄÄÄchapter6
+        ³       GreatestCommonDivisorMethod.java
+        ³       Hex2Dec.java
+        ³       Increment.java
+        ³       PrimeNumberMethod.java
+        ³       PrintCalendar.java
+        ³       RandomCharacter.java
+        ³       TestMax.java
+        ³       TestMethodOverloading.java
+        ³       TestPassByValue.java
+        ³       TestRandomCharacter.java
+        ³       TestReturnGradeMethod.java
+        ³       TestVoidMethod.java
+        ³       
+        ÃÄÄÄchapter7
+        ³       AnalyzeNumbers.java
+        ³       BinarySearch.java
+        ³       Calculator.java
+        ³       CountLettersInArray.java
+        ³       DeckOfCards.java
+        ³       InsertionSort.java
+        ³       LinearSearch.java
+        ³       SelectionSort.java
+        ³       TestPassArray.java
+        ³       VarArgsDemo.java
+        ³       
+        ÃÄÄÄchapter8
+        ³       CheckSudokuSolution.java
+        ³       FindNearestPoints.java
+        ³       GradeExam.java
+        ³       GuessBirthdayUsingArray.java
+        ³       PassTwoDimensionalArray.java
+        ³       Weather.java
+        ³       
+        ÀÄÄÄchapter9
+                CircleWithPrivateDataFields.java
+                CircleWithStaticMembers.java
+                TestCircleWithPrivateDataFields.java
+                TestCircleWithStaticMembers.java
+                TestFrame.java
+                TestPassObject.java
+                TestPoint2D.java
+                TestSimpleCircle.java
+                TestTV.java
+                TotalArea.java
+                TV.java
+                
