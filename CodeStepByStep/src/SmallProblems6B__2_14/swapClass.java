@@ -1,5 +1,6 @@
 /*
- * Write a method called swap that accepts an array of integers and two indexes as parameters and swaps the elements at those indexes.
+ * Write a method called swap that accepts an array of integers and two indexes as parameters and swaps the elements 
+ * at those indexes.
  * 
  * int[] a1 = {12, 34, 56};
  * swap(a1, 1, 2);
@@ -11,5 +12,14 @@
 package SmallProblems6B__2_14;
 
 public class swapClass {
-    
+    public static void main(String[] args) {
+        int[] a1 = {12, 34, 56};
+        swap(a1, 1, 2);
+        System.out.println(Arrays.toString(a1));
+    }
+
+    public static void swap(int[] a, int i, int j) {
+        int temp = a[i];
+        a[i] = a[j];
+    }
 }
