@@ -14,7 +14,7 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
 
     // Include the local JAR file
-    implementation fileTree(dir: 'lib', include: ['DrawingPanel.jar'])
+    implementation fileTree(dir: '../libs', include: ['*.jar'])
 
     // Other dependencies, if any
 }

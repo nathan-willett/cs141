@@ -1,5 +1,3 @@
-package Lab4__1_29;
-
 /*
  * Modify your Squares program from the previous exercise into a new class Squares2 that draws the following 
  * figures. (Go back to that problem and copy/paste your code here as a starting point.)
@@ -8,6 +6,8 @@ package Lab4__1_29;
  * The other figures are at positions (250, 10) and (180, 115), respectively. Use one or more parameterized 
  * static methods to reduce the redundancy of your solution.
  */
+
+package Lab4__1_29;
 
 import graphics.DrawingPanel;
 import java.awt.*;
