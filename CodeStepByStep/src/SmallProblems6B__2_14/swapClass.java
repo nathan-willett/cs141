@@ -11,6 +11,8 @@
 
 package SmallProblems6B__2_14;
 
+import java.util.Arrays;
+
 public class swapClass {
     public static void main(String[] args) {
         int[] a1 = {12, 34, 56};
@@ -21,5 +23,6 @@ public class swapClass {
     public static void swap(int[] a, int i, int j) {
         int temp = a[i];
         a[i] = a[j];
+        a[j] = temp;
     }
 }
