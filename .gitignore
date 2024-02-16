@@ -27,6 +27,17 @@ lib/
 .idea/
 *.iml
 .vscode/
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+# Build results
+[Bb]in/
+[Oo]bj/
 
 # OS-specific
 .DS_Store
@@ -35,12 +46,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
-*.swp
-*.*swp
-*.swo
-*.*swo
-
-# Virtual Machine files
 *.swp
 *.*swp
 *.swo
