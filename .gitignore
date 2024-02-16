@@ -9,7 +9,6 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 
 # Package files
-*.jar
 *.war
 *.nar
 *.ear
