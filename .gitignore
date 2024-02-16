@@ -55,4 +55,5 @@ Archive/
 
 # Documentation should not be ignored
 !**/README.md
+!libs/graphics/*.class
 '''
