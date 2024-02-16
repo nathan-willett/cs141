@@ -21,8 +21,14 @@ public class swapClass {
     }
 
     public static void swap(int[] a, int i, int j) {
+<<<<<<< HEAD
         int temp = a[i]; // Save the original value of a[i] in temp
         a[i] = a[j];     // Assign the value of a[j] to a[i]
         a[j] = temp;     // Assign the saved original value of a[i] (in temp) to a[j]
+=======
+        int temp = a[i];
+        a[i] = a[j];
+        a[j] = temp;
+>>>>>>> c62f81cf53f079a9f50f17c0c21a596a3cee0e34
     }
 }
