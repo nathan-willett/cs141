@@ -1,5 +1,3 @@
-package Lab4__1_29;
-
 /*
  * Write a program in a class named Squares that uses the DrawingPanel to draw the following figure:
  * (image)
@@ -12,25 +10,41 @@ package Lab4__1_29;
  * (You don't need to include any import statements at the top of your program.) (The next two exercises are 
  * modified versions of this program, so you can use the code you write here as a starting point for those 
  * exercises.)
- * 
  */
 
-import graphics.DrawingPanel; // needed so we can use DrawingPanel
-import java.awt.*;
-
-public class Squares {
-    public static void main(String[] args) {
-        DrawingPanel panel = new DrawingPanel(300, 200);
-        panel.setBackground(Color.CYAN);
-        Graphics g = panel.getGraphics();
-        g.setColor(Color.RED);
-        for (int i = 1; i <= 5; i++) {
-            g.drawRect(50, 50, 20 * i, 20 * i);
-        }
-
-        g.setColor(Color.BLACK);
-        for (int i = 1; i <= 5; i++) {
-            g.drawLine(50, 50, 50 + 20 * i, 50 + 20 * i);
-        }
-    }
-}
+ package Lab4__1_29;
+ 
+ import java.awt.Color;
+ import java.awt.Graphics;
+ import graphics.DrawingPanel;
+ 
+ public class Squares {
+     public static void main(String[] args) {
+         // Create a 300x200 DrawingPanel with a cyan background.
+         DrawingPanel panel = new DrawingPanel(300, 200);
+         panel.setBackground(Color.CYAN);
+         Graphics g = panel.getGraphics();
+ 
+         // Draw red squares and black diagonal lines.
+         drawSquaresAndDiagonals(g);
+     }
+ 
+     private static void drawSquaresAndDiagonals(Graphics g) {
+         final int startX = 50; // Starting X coordinate
+         final int startY = 50; // Starting Y coordinate
+         final int size = 20;   // Size increment for each square
+ 
+         for (int i = 0; i < 5; i++) {
+             int currentSize = size * i;
+ 
+             // Set color to red for the squares.
+             g.setColor(Color.RED);
+             g.drawRect(startX, startY, currentSize, currentSize);
+ 
+             // Set color to black for the diagonals.
+             g.setColor(Color.BLACK);
+             g.drawLine(startX, startY, startX + currentSize, startY + currentSize);
+         }
+     }
+ }
+ 
