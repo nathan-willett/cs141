@@ -13,7 +13,10 @@
 package Lab13__2_26;
 
 public class manhattanDistance {
-    int dx = x - other.x;
-    int xy = y - other.y;
-    return Math.abs(dx + dy);
+    public static void main(String[] args) {
+        int dx = x - other.x;
+        int xy = y - other.y;
+        return Math.abs(dx + dy);
+    }
+
 }

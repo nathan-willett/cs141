@@ -13,6 +13,7 @@ package week8;
 import java.util.*;
 import java.io.*;
 import java.awt.*;
+import graphics.DrawingPanel; // needed so we can use DrawingPanel
 
 public class Earthquake {
    public static void main(String[] args) throws FileNotFoundException {
@@ -39,6 +40,7 @@ public class Earthquake {
       
       markAffectedCities(coords, g, epicenter, earthquakeRadius);
       
+      console.close();
     }
     
     // reads a file of city data assumed to be have the number of cities on the frist
@@ -57,6 +59,7 @@ public class Earthquake {
           coords[i].drawPoint(g);
       }
       return coords;
+      input.close();
     }
     
     // sets the passed in graphics color to red. Redraws all of the cities that
