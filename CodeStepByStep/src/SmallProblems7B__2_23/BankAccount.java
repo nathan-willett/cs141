@@ -19,14 +19,46 @@
 package SmallProblems7B__2_23;
 
 public class BankAccount {
+    /*
+     * By declaring name and balance as private fields, you restrict direct access to these variables from 
+     * outside the class. This is a key aspect of encapsulation, which is about bundling the data (attributes) 
+     * and methods (functions or operations) that operate on the data into a single unit, and restricting access 
+     * to the internals of that unit. Data hiding is a principle that supports encapsulation by making fields 
+     * private and only accessible through public methods (getters and setters), thus allowing you to control 
+     * how the data is accessed or modified.
+     * 
+     * Declaring fields at the class level and controlling their access through constructors and methods follows 
+     * object-oriented best practices. It makes the code more maintainable, modular, and easier to understand. 
+     * It allows for the detailed implementation of features like lazy initialization or read-only fields (where 
+     * applicable).
+     */
     private String name;
     private double balance;
-
-    public static void main(String[] args) {
-        
+    
+    // Constructor for the BankAccount object
+    public BankAccount (String name, double balance) {
+        this.name = name;
+        this.balance = balance;
     }
 
+    @Override
     public String toString() {
-        
+        String formattedBalance;
+        // Check if the balance is negative and format accordingly
+        if (balance < 0) {
+            formattedBalance = String.format("-$%.2f", -balance);
+        } else {
+            formattedBalance = String.format("$%.2f", balance);
+        }
+
+        return name + ", " + formattedBalance;
+    }
+
+    public static void main(String[] args) {
+        BankAccount benben = new BankAccount("Benson", 17.25);
+        System.out.println(benben.toString());
+
+        BankAccount negativeBalance = new BankAccount("Benson", -17.5);
+        System.out.println(negativeBalance.toString()); // Should print: Benson, -$17.50
     }
 }

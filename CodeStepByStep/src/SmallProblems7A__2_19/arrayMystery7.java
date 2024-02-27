@@ -21,6 +21,6 @@ public class arrayMystery7 {
                 a[i + 1] = a[i + 1] * 2;
             }
         }
-        System.out.println()
+        System.out.println();
     }
 }
