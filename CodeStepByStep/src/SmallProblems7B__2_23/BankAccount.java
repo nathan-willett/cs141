@@ -54,11 +54,23 @@ public class BankAccount {
         return name + ", " + formattedBalance;
     }
 
-    public static void main(String[] args) {
-        BankAccount benben = new BankAccount("Benson", 17.25);
-        System.out.println(benben.toString());
+    // Constructor
+    public BankAccount(String name, double balance) {
+        this.name = name;
+        this.balance = balance;
+    }
 
-        BankAccount negativeBalance = new BankAccount("Benson", -17.5);
-        System.out.println(negativeBalance.toString()); // Should print: Benson, -$17.50
+    public static void main(String[] args) {
+        // Create an instance of BankAccount
+        BankAccount benben = new BankAccount("Benson", 17.25);
+        
+        // Call toString method and print the result
+        System.out.println(benben.toString());
+    }
+
+    public String toString() {
+        if (balance < 0) {
+            return 
+        }
     }
 }
