@@ -13,11 +13,16 @@ subprojects {
     
     version = '1.0'
 
+    sourceCompatibility = '21' // Set source compatibility
+    targetCompatibility = '21' // Set target compatibility
+
     dependencies {
         //testImplementation 'junit:junit:4.13.2'
         compileOnly 'javax:javaee-api:8.0'
         //implementation 'javax.sql:rowset:1.1'
         implementation fileTree(dir: 'libs', include: ['*.jar'])
+        implementation 'org.openjfx:javafx-controls:17' // Check for JavaFX compatibility
+        implementation 'org.openjfx:javafx-fxml:17' // Check for JavaFX compatibility
     }
 
     sourceSets {
