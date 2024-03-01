@@ -9,6 +9,7 @@ public class BankAccount {
     private double balance;
     private int transactions;   // added by 8A [BankAccount-transactionFee]
     
+
     // Main Method
     public static void main(String[] args) {
         // Create an instance of BankAccount
@@ -22,7 +23,9 @@ public class BankAccount {
     // Constructs a BankAccount object with the given id, and
     // 0 balance and transactions.
     public BankAccount(String id) {
-
+        this.id = id;
+        this.balance = 0;
+        this.transactions = 0;
     }
     
 

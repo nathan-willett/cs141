@@ -7,16 +7,19 @@ public final class Clock {
     private int minute;
     private String amPm;
 
+
     public static void main(String[] args) {
         Clock time = new Clock(6, 27, "PM");
         time.advance(30);
     }
     
+
     public Clock(int hour, int minute, String amPm) {
         this.hour = hour;
         this.minute = minute;
         this.amPm = amPm;
     }
+
 
     // param is type long so that the advance problem itself works!
     public void advance(long minutes) {
@@ -34,17 +37,21 @@ public final class Clock {
         }
     }
 
+
     public final int getHour() {
         return hour;
     }
+
 
     public final int getMinute() {
         return minute;
     }
 
+
     public final String getAmPm() {
         return amPm;
     }
+
 
     public final String toString() {
         String result = hour + ":";
@@ -57,6 +64,7 @@ public final class Clock {
         return result;
     }
 
+
     public boolean equals(Object o) {
         if (o instanceof Clock) {
             Clock t = (Clock) o;
@@ -66,6 +74,12 @@ public final class Clock {
         }
     }
 
-// YOUR CODE GOES HERE
-    //public advance()
+
+// SMALL PROBLEMS 9A PART ONE [Clock]
+/*
+ * Write an instance method named advance that will be placed inside the Clock class to become a part of each Clock object's behavior. The advance method accepts a number of minutes as its parameter and moves your object forward in time by that amount of minutes. The minutes passed could be any non-negative number, even a large number such as 500 or 1000000. If necessary, your object might wrap into the next hour or day, or it might wrap from the morning ("AM") to the evening ("PM") or vice versa. A Clock object doesn't care about what day it is; if you advance by 1 minute from 11:59 PM, it becomes 12:00 AM.
+ */
+    public advance() {
+
+    }
 }
