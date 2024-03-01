@@ -30,28 +30,28 @@ import java.util.Scanner;
  * not meaningful and that the average is not rounded. You may not construct any extra data
  * structures to solve this problem.
  */
-public class tallyScoresClass {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        tallyScores(scanner);
-    }
+// public class tallyScoresClass {
+//     public static void main(String[] args) {
+//         Scanner scanner = new Scanner(System.in);
+//         tallyScores(scanner);
+//     }
 
-    public static void tallyScores(Scanner scanner) {
-        String studentName = "";
-        int totalScore = 0;
-        int scoreCount = 0;
+//     public static void tallyScores(Scanner scanner) {
+//         String studentName = "";
+//         int totalScore = 0;
+//         int scoreCount = 0;
 
-        while (scanner.hasNext()) {
-            String token = scanner.next();
-            if (Character.isDigit(token.charAt(0))) {
-                // token is a score
-                int score = Integer.parseInt(token);
-                totalScore += score;
-                scoreCount++;
-            } else {
-                // token is a name, check if were moving to a new student
-                if (!)
-            }
-        }
-    }
-}
+//         while (scanner.hasNext()) {
+//             String token = scanner.next();
+//             if (Character.isDigit(token.charAt(0))) {
+//                 // token is a score
+//                 int score = Integer.parseInt(token);
+//                 totalScore += score;
+//                 scoreCount++;
+//             } else {
+//                 // token is a name, check if were moving to a new student
+//                 if (!)
+//             }
+//         }
+//     }
+// }

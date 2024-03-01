@@ -9,6 +9,7 @@
  */
 package Lab12__2_26;
 
+// LAB 12 PART ONE [Name]
 public class Name {
     String firstName;
     String lastNAme;

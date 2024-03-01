@@ -63,5 +63,5 @@ public final class Clock {
     }
 
 // YOUR CODE GOES HERE
-    public advance()
+    //public advance()
 }

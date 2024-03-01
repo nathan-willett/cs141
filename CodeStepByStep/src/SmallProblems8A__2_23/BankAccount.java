@@ -47,16 +47,25 @@ public class BankAccount {
     // Also counts as 1 transaction.
     public void withdraw(double amount) {}
     
-    /*
-     * The transactionFee method accepts a fee amount (a real number) as a parameter, and applies 
-     * that fee to the user's past transactions. The fee is applied once for the first transaction, 
-     * twice for the second transaction, three times for the third, and so on. These fees are 
-     * subtracted out from the user's overall balance. If the user's balance is large enough to 
-     * afford all of the fees with greater than $0.00 remaining, the method returns true. If the 
-     * balance cannot afford all of the fees or has no money left, the balance is left as 0.0 and the 
-     * method returns false.
-     */
+
+    // SMALL PROBLEMS 8A PART ONE
     public boolean transactionFee(double fee) {
+
+        /*
+         * The transactionFee method accepts a fee amount (a real number) as a
+         * parameter, and applies
+         * that fee to the user's past transactions. The fee is applied once for the
+         * first transaction,
+         * twice for the second transaction, three times for the third, and so on. These
+         * fees are
+         * subtracted out from the user's overall balance. If the user's balance is
+         * large enough to
+         * afford all of the fees with greater than $0.00 remaining, the method returns
+         * true. If the
+         * balance cannot afford all of the fees or has no money left, the balance is
+         * left as 0.0 and the
+         * method returns false.
+         */
         double totalFee = 0;
         for (int i = 1; i <= transactions; i++) {
             totalFee += fee * i;
