@@ -40,9 +40,9 @@ public class BankAccount {
     * 
     * public String toString()
     * 
-    * Your method should return a string that contains the account's name and balance separated by a
-    * comma and space. For example, if an account object named benben has the name "Benson" and a
-    * balance of 17.25, the call of benben.toString() should return:
+    * Your method should return a string that contains the account's name and balance separated by a comma and
+    * space. For example, if an account object named benben has the name "Benson" and a balance of 17.25, the 
+    * call of benben.toString() should return:
     * 
     * Benson, $17.25
     * 
