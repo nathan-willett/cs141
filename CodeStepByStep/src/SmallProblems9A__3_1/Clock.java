@@ -1,3 +1,7 @@
+// SMALL PROBLEMS 9A PART ONE [Clock]
+
+package SmallProblems9A__3_1;
+
 public final class Clock {
     private int hour;
     private int minute;
