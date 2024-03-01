@@ -7,9 +7,9 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `libs`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Meanwhile, the compiled output files will be generated in `{subproject}\build\classes\java\main` folder by default.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
@@ -25,8 +25,8 @@ The `DrawingPanel` class, used for graphical operations, is archived in the `cs1
 
 **PLEASE NOTE**
 `DrawingPanel.jar` exists in the following locations:
-- `cs141\CodeStepByStep\lib`
-- `cs141\ExampleCodeByWeek\lib`
+- `cs141\CodeStepByStep\libs`
+- `cs141\ExampleCodeByWeek\libs`
 
 Should `DrawingPanel.jar` require any modifications, all locations listed above must receive the new version of the file. To check compatibility, please test the programs listed below.
 
