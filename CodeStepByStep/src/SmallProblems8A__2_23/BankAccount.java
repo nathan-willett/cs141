@@ -21,7 +21,7 @@ public class BankAccount {
 
     // Constructs a BankAccount object with the given id, and
     // 0 balance and transactions.
-    public BankAccount(String id) {
+    public BankAccount(String id) {     // updated by 8A. Changes 'name' to 'id'. removes double 'balance' from parameter.
         this.id = id;
         this.balance = 0;
         this.transactions = 0;

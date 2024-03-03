@@ -13,7 +13,8 @@ public class BankAccount {
     // Main Method
     public static void main(String[] args) {
         // Create an instance of BankAccount
-        BankAccount benben = new BankAccount("Benson", 17.25);
+        BankAccount benben = new BankAccount("Benson");
+        benben.deposit(17.25);
         
         // Call toString method and print the result
         System.out.println(benben.toString());
@@ -22,7 +23,7 @@ public class BankAccount {
 
     // Constructs a BankAccount object with the given id, and
     // 0 balance and transactions.
-    public BankAccount(String id) {
+    public BankAccount(String id) {     // updated by 8A. Changes 'name' to 'id'. removes double 'balance' from parameter.
         this.id = id;
         this.balance = 0;
         this.transactions = 0;
@@ -108,7 +109,6 @@ public class BankAccount {
      */
     public boolean transactionFee(double fee) {
         double totalFee = 0;
-        
         for (int i = 1; i <= transactions; i++) {
             totalFee += fee * i;
         }
@@ -139,17 +139,28 @@ public class BankAccount {
      * If this account has under $5 or the amount is 0 or less, no transfer should
      * occur and neither account's state should be modified.
      */
-    public void transfer(BankAccount receiver, double amount) {
-        if (amount > 0.00) {
-            if (amount + 5.00 <= balance) {
-                withdraw(amount + 5.00);
-                receiver.deposit(amount);
-            } else {
-                if (amount > 5.00) {
-                    // partial transfer
-                    receiver.deposit(balance - (amount - 5.00));
-                }
-            }
+    public void transfer(BankAccount other, double amount) {
+        final double fee = 5.00;
+    
+        // Check if the amount is greater than 0
+        if (amount <= 0) {
+            // Do nothing if the amount is not positive
+            return;
         }
+        // Check if the balance is less than the fee
+        if (this.balance < fee) {
+            // Do nothing if the balance is less than the fee
+            return;
+        }
+        // Check if the balance is sufficient to cover the transfer and the fee
+        if (this.balance < amount + fee) {
+            // If not, transfer the remaining balance after the fee
+            amount = this.balance - fee;
+        }
+        // Perform the transfer
+        this.withdraw(amount + fee);
+        other.deposit(amount);
+    
+        // Assuming deposit and withdraw methods already increment the transaction count
     }
 }
