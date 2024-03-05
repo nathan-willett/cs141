@@ -55,7 +55,7 @@ public class BankAccount {
         } else {
             formattedBalance = String.format("$%.2f", balance);
         }
-        return name + ", " + formattedBalance;
+        return id + ", " + formattedBalance;
     }
 
 
@@ -78,14 +78,20 @@ public class BankAccount {
     // Adds the amount to the balance if it is between 0-500.
     // Also counts as 1 transaction.
     public void deposit(double amount) {
-
+        if (amount > 0 && amount <= 500) {
+            balance += amount;
+            transactions++; // Increment the number of transactions
+        }
     }
 
 
     // Subtracts the amount from the balance if the user has enough money.
     // Also counts as 1 transaction.
     public void withdraw(double amount) {
-
+        if (amount > 0 && balance >= amount) {
+            balance -= amount;
+            transactions++; // Increment the number of transactions
+        }
     }
 
 

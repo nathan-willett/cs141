@@ -13,8 +13,8 @@ subprojects {
     
     version = '1.0'
 
-    sourceCompatibility = '21' // Set source compatibility
-    targetCompatibility = '21' // Set target compatibility
+    sourceCompatibility = JavaVersion.VERSION_21 // Set source compatibility
+    targetCompatibility = JavaVersion.VERSION_21 // Set target compatibility
 
     dependencies {
         //compileOnly 'javax:javaee-api:8.0'

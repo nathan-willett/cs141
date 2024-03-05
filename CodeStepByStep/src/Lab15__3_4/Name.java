@@ -16,17 +16,16 @@ public class Name {
     char middleInitial;
 
     // LAB 15 PART ONE [constructorName]
-    // Constructor
     public Name(String firstName, char middleInitial, String lastName) {
+        // Constructor for the person
         this.firstName = firstName;
         this.middleInitial = middleInitial;
         this.lastName = lastName;
     }
 
     // LAB 15 PART TWO [toStringName]
-    // Returns a formatted string result
     @Override
-    public String toString() {
+    public String toString() {  // Returns a formatted string result
         return firstName + " " + middleInitial + ". " + lastName;
     }
 

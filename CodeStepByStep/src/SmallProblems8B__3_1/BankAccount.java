@@ -61,37 +61,44 @@ public class BankAccount {
         } else {
             formattedBalance = String.format("$%.2f", balance);
         }
-        return name + ", " + formattedBalance;
+        return id + ", " + formattedBalance;
     }
 
 
-    // returns the field values
+    // Returns the current balance of the bank account.
     public double getBalance() {
-
+        return this.balance;
     }
 
-
+    // Returns the ID of the bank account.
     public String getID() {
-
+        return this.id;
     }
 
-
-    public String getTransactions() {
-
+    // Returns the number of transactions made on the bank account.
+    public int getTransactions() {
+        return this.transactions;
     }
+
     
 
     // Adds the amount to the balance if it is between 0-500.
     // Also counts as 1 transaction.
     public void deposit(double amount) {
-
+        if (amount > 0 && amount <= 500) {
+            balance += amount;
+            transactions++; // Increment the number of transactions
+        }
     }
-    
+
 
     // Subtracts the amount from the balance if the user has enough money.
     // Also counts as 1 transaction.
     public void withdraw(double amount) {
-
+        if (amount > 0 && balance >= amount) {
+            balance -= amount;
+            transactions++; // Increment the number of transactions
+        }
     }
 
 
